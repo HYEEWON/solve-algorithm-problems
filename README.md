@@ -6,3 +6,21 @@
 * Programmers : L1 - 20분, L2 - 40분, L3 - 60분
 * LeetCode : Easy - 30분, Medium - 50분
 * Kakao : 40분
+
+## Programmers 고득점 KIT
+### 해시
+* 완주하지 못한 선수
+* [전화번호 목록](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210105_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D_%ED%95%B4%EC%8B%9C_L2.py)
+* [위장](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210105_%EC%9C%84%EC%9E%A5_%ED%95%B4%EC%8B%9C_L2.py)
+* 베스트앨범
+### 스택/큐
+* [주식가격](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210105_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9_%EC%8A%A4%ED%83%9D%ED%81%90_L2.py)
+* 기능개발
+### 힙(Heap)
+### 정렬
+### 완전탐색
+### 탐욕법(Greedy)
+### 동적계획법(Dynamic Programming)
+### 깊이/너비 우선 탐색(DFS/BFS)
+### 이분탐색
+### 그래프

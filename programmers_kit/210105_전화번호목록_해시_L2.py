@@ -9,12 +9,12 @@ def solution(phone_book):
 
 def solution2(phone_book):
     phone_book = sorted(phone_book)
-    print(phone_book[1:])
     for p1, p2 in zip(phone_book, phone_book[1:]):
         if p2.startswith(p1):
             return False
     return True
 
+# 해시를 이용한 풀이
 def solution3(phone_book):
     n = len(phone_book)
     d = dict()
