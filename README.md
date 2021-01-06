@@ -5,7 +5,7 @@
 * BOJ(solved.ac) : Bronze - 20분, Silver - 40분, Gold - 60분
 * Programmers : L1 - 20분, L2 - 40분, L3 - 60분
 * LeetCode : Easy - 30분, Medium - 50분
-#####
+##### 표시 방법
 * *: 시간 내에 못 푼 문제
 * **: 시간 내에 풀었으나 다시 보면 좋을 문제
 * (*): 참고한 풀이
