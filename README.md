@@ -20,7 +20,7 @@
 * [주식가격](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210105_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9_%EC%8A%A4%ED%83%9D%ED%81%90_L2.py)
 * 기능개발
 ##### 힙(Heap)
-* [더맵게](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210106_%EB%8D%94%EB%A7%B5%EA%B2%8C_L2.py)
+* [더맵게](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210106_%EB%8D%94%EB%A7%B5%EA%B2%8C_%ED%9E%99_L2.py)
 * [디스크 컨트롤러](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210106_%EB%94%94%EC%8A%A4%ED%81%AC%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC_%ED%9E%99_L3.py) *
 * 이중우선순위큐
 ##### 정렬
