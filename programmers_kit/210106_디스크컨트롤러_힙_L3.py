@@ -30,13 +30,17 @@ def solution2(jobs):
         ans = 0
         t = 0
         for job in p:
-            ans += (t+job[1]-job[0])
-            t += job[1]
+            if job[0] < t:
+                ans += (t+job[1]-job[0])
+                t += job[1]
+            else:
+                ans += (job[1])
+                t = job[0]+job[1]
         if answer == -1:
             answer = ans
         else:
             answer = min(answer, ans)
-    return answer//3
+    return answer//len(jobs)
 
-jobs = [[0, 3], [1, 9], [2, 6], [4, 5]]
+jobs = [[0, 3], [1, 9], [2, 6]]
 print(solution(jobs))
