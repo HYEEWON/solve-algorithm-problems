@@ -1,5 +1,5 @@
 ### practice_for_coding_test
-파이썬과 C++을 이용한 코딩 테스트 준비 과정
+파이썬과 자바를 이용한 코딩 테스트 준비 과정
 
 ### 문제 풀이 제한 시간
 * BOJ(solved.ac) : Bronze - 20분, Silver - 40분, Gold - 60분
