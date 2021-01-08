@@ -48,12 +48,5 @@ def solution2(relation):
                 result.append(set(c))
     return answer
 
-#(*) 비트 연산
-def solution3(relation):
-    result = list()
-    print(1 << len(relation[0]))
-    for i in range(1, 1 << len(relation[0])):
-        print(i)
-    return result
 relation = [["100","ryan","music","2"],["200","apeach","math","2"],["300","tube","computer","3"],["400","con","computer","4"],["500","muzi","music","3"],["600","apeach","music","2"]]
-print(solution3(relation))
+print(solution2(relation))
