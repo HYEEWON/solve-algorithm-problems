@@ -26,6 +26,12 @@
 ##### 정렬
 ##### 완전탐색
 ##### 탐욕법(Greedy)
+* [체육복](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210111_%EC%B2%B4%EC%9C%A1%EB%B3%B5_%ED%83%90%EC%9A%95%EB%B2%95_L1.py)
+* [조이스틱](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210111_%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1_%ED%83%90%EC%9A%95%EB%B2%95_L2.py)
+* 큰 수 만들기
+* 구명보트
+* 섬 연결하기
+* 단속카메라
 ##### 동적계획법(Dynamic Programming)
 ##### 깊이/너비 우선 탐색(DFS/BFS)
 ##### 이분탐색
