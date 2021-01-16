@@ -26,8 +26,6 @@ def solution(m, n, puddles):
             map[i][j] %= 1000000007
     return map[n][m]
 
-from collections import deque, defaultdict
-
 def solution2(m, n, puddles):
     map = [[0 for i in range(m+1)] for j in range(n+1)]
     for p in puddles:
