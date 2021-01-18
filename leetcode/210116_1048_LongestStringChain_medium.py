@@ -16,10 +16,8 @@ def longestChain(words):
         d[word] = 1
         for j in range(0, len(word)):
             tmp = word[:j]+word[j+1:]
-            #print(word, tmp)
             if tmp in d.keys():
                 d[word] = max(d[word], d[tmp]+1)
-            #print(d)
     return max(list(d.values()))
 
 if __name__ == '__main__':
