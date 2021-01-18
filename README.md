@@ -34,15 +34,16 @@
 * 단속카메라
 #### 동적계획법(Dynamic Programming)
 * [N으로 표현](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210116_N%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84_DP_L3.py) *
-* 정수 삼각형
+* [정수 삼각형](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210118_%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95_DP_L3.py)
 * [등굣길](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210116_%EB%93%B1%EA%B5%A3%EA%B8%B8_DP_L3.py)
-* 도둑질
+* [도둑질](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210118_%EB%8F%84%EB%91%91%EC%A7%88_DP_L4.py)
 #### 깊이/너비 우선 탐색(DFS/BFS)
 #### 이분탐색
 #### 그래프
 
 ### Programmers 2019 Kakao Blind Recruitment
 * [오픈채팅방](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_2019_kakao/210106_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9_L2.py)
+* [실패율](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_2019_kakao/210118_%EC%8B%A4%ED%8C%A8%EC%9C%A8_L2.py)
 * [후보키](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_2019_kakao/210107_%ED%9B%84%EB%B3%B4%ED%82%A4_L2.py)
 * [매칭점수](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_2019_kakao/210113_%EB%A7%A4%EC%B9%AD%EC%A0%90%EC%88%98_L3.py) *
 * [길 찾기 게임](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_2019_kakao/210108_%EA%B8%B8%EC%B0%BE%EA%B8%B0%EA%B2%8C%EC%9E%84_L3.py) *
