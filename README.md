@@ -22,7 +22,7 @@
 #### 힙(Heap)
 * [더맵게](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210106_%EB%8D%94%EB%A7%B5%EA%B2%8C_%ED%9E%99_L2.py)
 * [디스크 컨트롤러](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210106_%EB%94%94%EC%8A%A4%ED%81%AC%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC_%ED%9E%99_L3.py) *
-* 이중우선순위큐
+* [이중우선순위큐](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210122_%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90_%ED%9E%99_L3.py) *
 #### 정렬
 #### 완전탐색
 #### 탐욕법(Greedy)
@@ -38,6 +38,10 @@
 * [등굣길](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210116_%EB%93%B1%EA%B5%A3%EA%B8%B8_DP_L3.py)
 * [도둑질](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210118_%EB%8F%84%EB%91%91%EC%A7%88_DP_L4.py)
 #### 깊이/너비 우선 탐색(DFS/BFS)
+* 타겟 넘버
+* 네트워크
+* [단어 변환](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210121_%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98_DFSBFS_L3.py)
+* 여행경로
 #### 이분탐색
 #### 그래프
 
