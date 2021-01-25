@@ -64,7 +64,7 @@
 * [8983. 사냥꾼](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/210123_8983_%EC%82%AC%EB%83%A5%EA%BE%BC_BS_g4.py)
 #### 구현
 * [1713. 후보 추천하기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/210125_1713_%ED%9B%84%EB%B3%B4%EC%B6%94%EC%B2%9C%ED%95%98%EA%B8%B0_s1.py)
-* [3425. 고스택]
+* [3425. 고스택](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/210125_3425_%EA%B3%A0%EC%8A%A4%ED%83%9D_g4.java)
 * [15686. 치킨배달](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/210125_15686_%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC_g5.java)
 ### Leet Code
 * [1048. Longest String Chain](https://github.com/HYEEWON/practice_for_coding_test/blob/master/leetcode/210116_1048_LongestStringChain_medium.py)
