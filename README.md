@@ -70,7 +70,7 @@
 * [11050. 이항계수](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/combinatorics/210129_11050_%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%981_b1.py)
 * [11051. 이항계수2](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/combinatorics/210129_11051_%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%982_s1.java)
 * [13251. 조약돌 꺼내기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/combinatorics/210129_13251_%EC%A1%B0%EC%95%BD%EB%8F%8C%EA%BA%BC%EB%82%B4%EA%B8%B0_s4.java) *
-*[15663. N과 M(9)](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/combinatorics/210129_15663_N%EA%B3%BCM(9)_s2.java)
+* [15663. N과 M(9)](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/combinatorics/210129_15663_N%EA%B3%BCM(9)_s2.java)
 * [15664. N과 M(10)](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/combinatorics/210129_15664_N%EA%B3%BCM(10)_s2.java)
 
 ### Dynamic Programming
@@ -112,7 +112,7 @@
 ### 구현
 * [1713. 후보 추천하기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/implementation/210125_1713_%ED%9B%84%EB%B3%B4%EC%B6%94%EC%B2%9C%ED%95%98%EA%B8%B0_s1.py)
 * [3425. 고스택](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/implementation/210125_3425_%EA%B3%A0%EC%8A%A4%ED%83%9D_g4.java)
-* [15686. 치킨배달](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/implementation/210125_15686_%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC_g5.java)
+* [15686. 치킨배달](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/implementation/210125_15686_%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC_g5.java) *
 
 ### 정수론
 * [4375. 1](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/number-theory/210128_4375_1_s3.java) *
