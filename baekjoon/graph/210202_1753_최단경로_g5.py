@@ -1,4 +1,4 @@
-// 다익스트라 알고리즘
+# 다익스트라 알고리즘
 import sys, heapq
 from collections import defaultdict
 
