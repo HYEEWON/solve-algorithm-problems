@@ -149,13 +149,13 @@
 * [10828. 스택](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/stack/210127_10828_%EC%8A%A4%ED%83%9D_s4.py)
 
 ### Tree
-* [1275. 커피숍2](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210128_1275_%EC%BB%A4%ED%94%BC%EC%88%8D2_g1.java) *
+* [1275. 커피숍2](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210128_1275_%EC%BB%A4%ED%94%BC%EC%88%8D2_g1.java) ***
 * [1991. 트리 순회](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210127_1991_%ED%8A%B8%EB%A6%AC%EC%88%9C%ED%9A%8C_s1.py) *
 * [2042. 구간합 구하기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210207_2042_%EA%B5%AC%EA%B0%84%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B0_g1.java)
 * [2243. 사탕상자](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210128_2243_%EC%82%AC%ED%83%95%EC%83%81%EC%9E%90_p5.java) *
 * [5639. 이진 검색 트리](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210128_5639_%EC%9D%B4%EC%A7%84%EA%B2%80%EC%83%89%ED%8A%B8%EB%A6%AC_s1.py)
 * [6416. 트리인가](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210213_6416_%ED%8A%B8%EB%A6%AC%EC%9D%B8%EA%B0%80_g5.py) *
-* [9202. Boggle](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210127_9202_Boggle_trie_p5.py) *
+* [9202. Boggle](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210127_9202_Boggle_trie_p5.py) ***
 
 ### Two Pointer
 * [1806. 부분합](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/two-pointer/210126_1806_%EB%B6%80%EB%B6%84%ED%95%A9_g4.py)
