@@ -80,9 +80,11 @@
 * [1520. 내리막길](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210209_1520_%EB%82%B4%EB%A6%AC%EB%A7%89%EA%B8%B8_g4.py)
 * [1915. 가장 큰 정사각형](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210203_1915_%EA%B0%80%EC%9E%A5%ED%81%B0%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95_g5.java) *
 * [1932. 정수 삼각형](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210203_1932_%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95_s1.java)
+* [1965. 상자넣기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210222_1965_%EC%83%81%EC%9E%90%EB%84%A3%EA%B8%B0_s2.py)
 * [2096. 내려가기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210126_2096_%EB%82%B4%EB%A0%A4%EA%B0%80%EA%B8%B0_g4.java)
 * [2098. 외판원 순회](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210205_2098_%EC%99%B8%ED%8C%90%EC%9B%90%EC%88%9C%ED%9A%8C_g1.py) *
 * [2225. 합분해](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210212_2225_%ED%95%A9%EB%B6%84%ED%95%B4_g5.py) *
+* [2293. 동전1](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210227_2293_%EB%8F%99%EC%A0%841_s1.py) *
 * [2342. Dance Dance Revolution](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210204_2342_DanceDanceRevolution_g3.java)
 * [2579. 계단 오르기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210203_2579_%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0.s3.py)
 * [2748. 피보나치 수2](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210126_2748_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%982_b1.py)
@@ -93,8 +95,10 @@
 * [9252. LCS2](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210204_9252_LCS2_g5.java) *
 * [11049. 행렬 곱셈 순서](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210203_11049_%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%88%EC%88%9C%EC%84%9C_g3.java) ***
 * [11062. 카드 게임](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210204_11062_%EC%B9%B4%EB%93%9C%EA%B2%8C%EC%9E%84_g3.java) ***
+* [11066. 파일 합치기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210223_11066_%ED%8C%8C%EC%9D%BC%ED%95%A9%EC%B9%98%EA%B8%B0_g3.py) *
 * [11659. 구간 합 구하기4](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210203_11659_%EA%B5%AC%EA%B0%84%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B04_s3.py)
 * [11660. 구간 합 구하기5](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210203_11660_%EA%B5%AC%EA%B0%84%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B05_s1.java) *
+* [11726. 2n 타일링](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210227_11726_2n%ED%83%80%EC%9D%BC%EB%A7%81_s3.py)
 * [12865. 평범한 배낭](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210208_12865_%ED%8F%89%EB%B2%94%ED%95%9C%EB%B0%B0%EB%82%AD_g5.py)
 * [15989. 1,2,3 더하기4](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210212_15989_1%2C2%2C3%EB%8D%94%ED%95%98%EA%B8%B04_s1.py)
 * [15990. 1,2,3 더하기5](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210212_15990_1%2C2%2C3%EB%8D%94%ED%95%98%EA%B8%B05_s3.py) *
@@ -118,6 +122,8 @@
 * [11438. LCA2](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210201_11438_LCA2_p5.java) **
 * [11657. 타임머신](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210202_11657_%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0_g4.java)
 * [14502. 연구소](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210209_14502_%EC%97%B0%EA%B5%AC%EC%86%8C_g5.py)
+* [16234. 인구이동](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210222_16234_%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99_g5.py)
+* [2573. 빙산](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210226_2573_%EB%B9%99%EC%82%B0_g4.py)
 
 ### Hash
 * [4358. 생태학](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/hash/210127_4358_%EC%83%9D%ED%83%9C%ED%95%99_g4.java)
@@ -148,11 +154,16 @@
 * [2504. 괄호의 값](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/stack/210127_2504_%EA%B4%84%ED%98%B8%EC%9D%98%EA%B0%92_s2.py) **
 * [10828. 스택](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/stack/210127_10828_%EC%8A%A4%ED%83%9D_s4.py)
 
+### String
+* [1786. 찾기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/string/210226_1786_%EC%B0%BE%EA%B8%B0_g1.py) ***
+
 ### Tree
 * [1275. 커피숍2](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210128_1275_%EC%BB%A4%ED%94%BC%EC%88%8D2_g1.java) ***
+* [1967. 트리의 지름](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210224_1967_%ED%8A%B8%EB%A6%AC%EC%9D%98%EC%A7%80%EB%A6%84_g4.py)
 * [1991. 트리 순회](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210127_1991_%ED%8A%B8%EB%A6%AC%EC%88%9C%ED%9A%8C_s1.py) *
 * [2042. 구간합 구하기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210207_2042_%EA%B5%AC%EA%B0%84%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B0_g1.java)
 * [2243. 사탕상자](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210128_2243_%EC%82%AC%ED%83%95%EC%83%81%EC%9E%90_p5.java) *
+* [2250. 트리의 높이와 너비](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210216_2250_%ED%8A%B8%EB%A6%AC%EC%9D%98%EB%86%92%EC%9D%B4%EC%99%80%EB%84%88%EB%B9%84_g2.py) *
 * [5639. 이진 검색 트리](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210128_5639_%EC%9D%B4%EC%A7%84%EA%B2%80%EC%83%89%ED%8A%B8%EB%A6%AC_s1.py)
 * [6416. 트리인가](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210213_6416_%ED%8A%B8%EB%A6%AC%EC%9D%B8%EA%B0%80_g5.py) *
 * [9202. Boggle](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210127_9202_Boggle_trie_p5.py) ***
