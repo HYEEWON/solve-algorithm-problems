@@ -1,4 +1,2 @@
 # BAEKJOON
 
-## Dynamic Programming
-
