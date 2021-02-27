@@ -1,4 +1,22 @@
-'''import sys
+import sys
+
+n, k = map(int, sys.stdin.readline().split())
+coins = []
+for c in range(n):
+    coins.append(int(sys.stdin.readline()))
+coins.sort()
+
+dp = [0 for j in range(k+1)]
+dp[0] = 1
+for coin in coins:
+    for j in range(coin, k+1):
+        dp[j] += dp[j-coin]
+
+sys.stdout.write(str(dp[k]))
+
+
+# 메모리 초과로 실패한 풀이
+import sys
 
 n, k = map(int, sys.stdin.readline().split())
 coins = []
@@ -15,20 +33,4 @@ for i in range(1, k+1):
         else:
             dp[i][j] = dp[i][j-1]
 
-sys.stdout.write(str(dp[k][n]))'''
-
-import sys
-
-n, k = map(int, sys.stdin.readline().split())
-coins = []
-for c in range(n):
-    coins.append(int(sys.stdin.readline()))
-coins.sort()
-
-dp = [0 for j in range(k+1)]
-dp[0] = 1
-for coin in coins:
-    for j in range(coin, k+1):
-        dp[j] += dp[j-coin]
-
-sys.stdout.write(str(dp[k]))
+sys.stdout.write(str(dp[k][n]))
