@@ -13,13 +13,15 @@
 
 ## Programmers 고득점 KIT
 ### 해시
-* 완주하지 못한 선수
+* [완주하지 못한 선수](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_kit/210228_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98_%ED%95%B4%EC%8B%9C_L1.py)
 * [전화번호 목록](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210105_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D_%ED%95%B4%EC%8B%9C_L2.py)
 * [위장](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210105_%EC%9C%84%EC%9E%A5_%ED%95%B4%EC%8B%9C_L2.py)
-* 베스트앨범
+* [베스트 앨범](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_kit/210228_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94_%ED%95%B4%EC%8B%9C_L3.py)
 ### 스택/큐
+* [다리를 지나는 트럭](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_kit/210228_%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD_%EC%8A%A4%ED%83%9D%ED%81%90_L2.py)
 * [주식가격](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210105_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9_%EC%8A%A4%ED%83%9D%ED%81%90_L2.py)
-* 기능개발
+* [기능개발](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_kit/210228_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C_%EC%8A%A4%ED%83%9D%ED%81%90_L2.py)
+* [프린터](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_kit/210228_%ED%94%84%EB%A6%B0%ED%84%B0_%EC%8A%A4%ED%83%9D%ED%81%90_L2.py)
 ### 힙(Heap)
 * [더맵게](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210106_%EB%8D%94%EB%A7%B5%EA%B2%8C_%ED%9E%99_L2.py)
 * [디스크 컨트롤러](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210106_%EB%94%94%EC%8A%A4%ED%81%AC%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC_%ED%9E%99_L3.py) *
