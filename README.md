@@ -46,7 +46,11 @@
 * [단어 변환](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210121_%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98_DFSBFS_L3.py)
 * 여행경로
 ### 이분탐색
+* [입국심사](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_kit/210307_%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89_L3.py)
 ### 그래프
+* [가장 먼 노드](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_kit/210307_%EA%B0%80%EC%9E%A5%EB%A8%BC%EB%85%B8%EB%93%9C_%EA%B7%B8%EB%9E%98%ED%94%84_L3.py)
+* [순위](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_kit/210305_%EC%88%9C%EC%9C%84_%EA%B7%B8%EB%9E%98%ED%94%84_L3.java)
+* [방의 개수](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_kit/210307_%EB%B0%A9%EC%9D%98%EA%B0%9C%EC%88%98_%EA%B7%B8%EB%9E%98%ED%94%84_L5.py) *
 
 ## Programmers 2019 Kakao Blind Recruitment
 * [오픈채팅방](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_2019_kakao/210106_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9_L2.py)
