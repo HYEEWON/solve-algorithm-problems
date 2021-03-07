@@ -12,16 +12,16 @@ def solution(arrows):
     q = deque()
     q.append([y, x])
 
-    for arrow in arrows:
-        ny = y + dy[arrow]
-        nx = x + dx[arrow]
-
-        cnt[(y, x)] = 0
-        cnt[(ny, nx)] = 0
-        graph[(y, x, ny, nx)] = 0
-        graph[(ny, nx, y, x)] = 0
-        q.append([ny, nx])
-        y, x = ny, nx
+    # 1번 이동할 때, 2번씩 이동
+    for i in arrows:
+        for j in range(2):
+            nx = x + dx[i]
+            ny = y + dy[i]
+            cnt[(ny, nx)] = 0
+            graph[(y, x, ny, nx)] = 0
+            graph[(ny, nx, y, x)] = 0
+            q.append([ny, nx])
+            x, y = nx, ny
 
     y, x = q.popleft()
     cnt[(y, x)] = 1
