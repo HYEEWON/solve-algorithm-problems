@@ -41,10 +41,10 @@
 * [등굣길](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210116_%EB%93%B1%EA%B5%A3%EA%B8%B8_DP_L3.py)
 * [도둑질](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210118_%EB%8F%84%EB%91%91%EC%A7%88_DP_L4.py)
 ### 깊이/너비 우선 탐색(DFS/BFS)
-* 타겟 넘버
-* 네트워크
+* [타겟 넘버](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_kit/210309_%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84_DFSBFS_L2.py)
+* [네트워크](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_kit/201008_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_DFSBFS_L3.py)
 * [단어 변환](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210121_%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98_DFSBFS_L3.py)
-* 여행경로
+* [여행경로](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_kit/201011_%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C_DFSBFS_L3.py)
 ### 이분탐색
 * [입국심사](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_kit/210307_%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89_L3.py)
 ### 그래프
