@@ -33,8 +33,8 @@
 * [조이스틱](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210111_%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1_%ED%83%90%EC%9A%95%EB%B2%95_L2.py) *
 * [큰 수 만들기](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_kit/210305_%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0_%ED%83%90%EC%9A%95%EB%B2%95_L2.py) *
 * [구명보트](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_kit/210305_%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8_%ED%83%90%EC%9A%95%EB%B2%95_L2.py) *
-* 섬 연결하기
-* 단속카메라
+* [섬 연결하기](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_kit/210308_%EC%84%AC%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0_%ED%83%90%EC%9A%95%EB%B2%95_L3.py)
+* [단속카메라](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_kit/210309_%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC_%ED%83%90%EC%9A%95%EB%B2%95_L3.py)
 ### 동적계획법(Dynamic Programming)
 * [N으로 표현](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210116_N%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84_DP_L3.py) *
 * [정수 삼각형](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_kit/210118_%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95_DP_L3.py)
