@@ -25,13 +25,12 @@ def move(direction):
         return 1
     else:
         return 2
-        
+
 answer = 0
-def dfs(y, x, direction, check):
+def dfs(y, x, direction):
     global answer
-    if check:
-        print(y, x, direction, answer+1)
-        visit[y][x] = 1
+    if board[y][x] == 0:
+        board[y][x] = 2
         answer += 1
 
     cnt = 0
@@ -40,20 +39,21 @@ def dfs(y, x, direction, check):
         nx = x+dx[direction]
         if nx<0 or nx>=M or ny<0 or ny>=N:
             continue
-        if visit[ny][nx] == 0 and board[ny][nx] == 0:
-            dfs(ny, nx, move(direction), True)
-        elif visit[ny][nx] == 1 or board[ny][nx] == 1:
-            cnt += 1
+        if board[ny][nx] == 0:
+            dfs(ny, nx, move(direction))
+            return
+        else:
             direction = move(direction)
-    if cnt >= 4:
-        ny = y+by[direction]
-        nx = x+bx[direction]
-        if nx<0 or nx>=M or ny<0 or ny>=N:
-            pass
-        elif board[ny][nx] == 0:
-            dfs(ny, nx, direction, False)
+    ny = y+by[direction]
+    nx = x+bx[direction]
+    if nx<0 or nx>=M or ny<0 or ny>=N:
+        pass
+    if board[ny][nx] == 1:
+        return
+    dfs(ny, nx, direction)
     return
-dfs(r, c, direction, True)
+    
+dfs(r, c, direction)
 print(answer)
 
 
