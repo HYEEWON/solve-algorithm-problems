@@ -1,6 +1,7 @@
 #  현재 노드가 얼리어답터 -> 인접한 다음 노드 얼리어답터 x
 # 현재 노드가 얼리어답터 x -> 인접한 다음 노드는 얼리어답터 or x
 
+#(*)
 import sys
 from collections import defaultdict
 sys.setrecursionlimit(1000000)
@@ -17,8 +18,8 @@ check = [True for j in range(N+1)]
 
 def dfs(cur):
     check[cur] = False
-    dp[cur][0] = 1
-    dp[cur][1] = 0
+    dp[cur][0] = 1 # 현재 노드 포함
+    dp[cur][1] = 0 # 현재 노드 비포함
 
     for i in tree[cur]:
         if check[i]:
@@ -29,8 +30,8 @@ def dfs(cur):
 dfs(1)
 print(N-max(dp[1][0], dp[1][1]))
 
-#(*) 메모리 초과
-'''import sys
+#(*)
+import sys
 from collections import defaultdict
 sys.setrecursionlimit(1000000)
 
@@ -63,4 +64,4 @@ def solution(prev, cur, state):
             dp[cur][state] += solution(cur, nexts, 1)
     return dp[cur][state]
 
-print(min(solution(-1, 1, 1), solution(-1, 1, 0)))'''
+print(min(solution(-1, 1, 1), solution(-1, 1, 0)))
