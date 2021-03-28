@@ -33,7 +33,6 @@ def dfs(y, x, direction):
         board[y][x] = 2
         answer += 1
 
-    cnt = 0
     for i in range(4):
         ny = y+dy[direction]
         nx = x+dx[direction]
@@ -55,9 +54,3 @@ def dfs(y, x, direction):
     
 dfs(r, c, direction)
 print(answer)
-
-
-
-
-
-
