@@ -56,7 +56,7 @@ def dfs(y, x, shark_dir, total):
         tmp = board[0][ny][nx]
         board[0][ny][nx] = -1
         dfs(ny, nx, board[1][ny][nx], tmp+total)
-        board = tmp_board
+        board = deepcopy(tmp_board)
         x, y = nx, ny
 
 answer += board[0][0][0]
