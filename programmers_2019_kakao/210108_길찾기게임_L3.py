@@ -63,7 +63,7 @@ def pre_order(node):
 def post_order(node):
     global answer
     if node == None: return;
-    post_order(node.left)
+    post_order(node.left) 
     post_order(node.right)
     answer[1].append(node.id)
 
@@ -72,9 +72,7 @@ def solution2(nodeinfo):
     nodes = sorted(nodes, key = lambda x: -x[1])
 
     root = Node(nodes[0])
-    for i in range(1, len(nodes)):
-        a = Node(nodes[i])
-        
+    for i in range(1, len(nodes)):      
         addNode(root, Node(nodes[i]))
     
     pre_order(root)
