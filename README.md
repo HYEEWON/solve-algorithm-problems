@@ -63,6 +63,9 @@
 * [길 찾기 게임](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_2019_kakao/210108_%EA%B8%B8%EC%B0%BE%EA%B8%B0%EA%B2%8C%EC%9E%84_L3.py) *
 * [블록게임](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_2019_kakao/210120_%EB%B8%94%EB%A1%9D%EA%B2%8C%EC%9E%84_L4.py) *
 
+## Programmers 2021 Kakao Internship
+* [거리두기 확인하기](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_2021_kakao_internship/210729_%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0_L2.py)
+
 ## Baekjoon
 ### Backtracking
 * [1759. 암호만들기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/backtracking/210125_1759_%EC%95%94%ED%98%B8%EB%A7%8C%EB%93%A4%EA%B8%B0_g5.py)
