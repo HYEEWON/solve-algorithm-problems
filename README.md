@@ -1,15 +1,20 @@
 # Practice for Coding Test
-파이썬과 자바를 이용한 코딩 테스트 준비 과정
+* 파이썬과 자바를 이용한 코딩 테스트 준비 과정
+* 알고리즘 학습
+
 
 ## 문제 풀이 제한 시간
 * BOJ(solved.ac) : Bronze - 20분, Silver - 40분, Gold - 60분
 * Programmers : L1 - 20분, L2 - 40분, L3 - 60분
 * LeetCode : Easy - 30분, Medium - 50분
+
+
 ## 표시 방법
 * *: 시간 내에 못 푼 문제
 * **: 시간 내에 풀었으나 다시 보면 좋을 문제
 * ***: 배운 풀이
 * (*): 참고한 풀이(코드에서 확인 가능)
+
 
 ## Programmers 고득점 KIT
 ### 해시
@@ -55,6 +60,7 @@
 * [순위](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_kit/210305_%EC%88%9C%EC%9C%84_%EA%B7%B8%EB%9E%98%ED%94%84_L3.java)
 * [방의 개수](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_kit/210307_%EB%B0%A9%EC%9D%98%EA%B0%9C%EC%88%98_%EA%B7%B8%EB%9E%98%ED%94%84_L5.py) *
 
+
 ## Programmers 2019 Kakao Blind Recruitment
 * [오픈채팅방](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_2019_kakao/210106_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9_L2.py)
 * [실패율](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_2019_kakao/210118_%EC%8B%A4%ED%8C%A8%EC%9C%A8_L2.py)
@@ -63,8 +69,10 @@
 * [길 찾기 게임](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_2019_kakao/210108_%EA%B8%B8%EC%B0%BE%EA%B8%B0%EA%B2%8C%EC%9E%84_L3.py) *
 * [블록게임](https://github.com/HYEEWON/practice_for_coding_test/blob/master/programmers_2019_kakao/210120_%EB%B8%94%EB%A1%9D%EA%B2%8C%EC%9E%84_L4.py) *
 
+
 ## Programmers 2021 Kakao Internship
 * [거리두기 확인하기](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_2021_kakao_internship/210729_%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0_L2.py)
+
 
 ## Baekjoon
 ### Backtracking
@@ -205,6 +213,7 @@
 * [1806. 부분합](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/two-pointer/210126_1806_%EB%B6%80%EB%B6%84%ED%95%A9_g4.py)
 * [2003. 수들의 합2](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/two-pointer/210126_2003_%EC%88%98%EB%93%A4%EC%9D%98%ED%95%A92_s3.py) *
 * [2143. 두 배열의 합](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/two-pointer/210126_2143_%EB%91%90%EB%B0%B0%EC%97%B4%EC%9D%98%ED%95%A9_g3.java) *
+
 
 ## Leet Code
 * [1048. Longest String Chain](https://github.com/HYEEWON/practice_for_coding_test/blob/master/leetcode/210116_1048_LongestStringChain_medium.py)
