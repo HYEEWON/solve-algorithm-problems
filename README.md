@@ -72,6 +72,8 @@
 
 ## Programmers 2021 Kakao Internship
 * [거리두기 확인하기](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_2021_kakao_internship/210729_%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0_L2.py)
+* [숫자 문자열과 영단어](https://github.com/HYEEWON/algorithm-study/blob/main/programmers_2021_kakao_internship/210818_%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4_L2.py)
+* [표 편집](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers_2021_kakao_internship/210819_%ED%91%9C%ED%8E%B8%EC%A7%91_L3.py) *
 
 
 ## Baekjoon

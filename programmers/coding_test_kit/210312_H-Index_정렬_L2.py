@@ -7,8 +7,7 @@ def solution(citations):
             answer = i
             break
     if i == len(citations):
-        return i;
+        return i
     return answer
 
 print(solution([3, 0, 6, 1, 5]))
-3w0317
