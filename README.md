@@ -77,6 +77,15 @@
 * [숫자 문자열과 영단어](https://github.com/HYEEWON/algorithm-study/blob/main/programmers_2021_kakao_internship/210818_%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4_L2.py)
 * [표 편집](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers_2021_kakao_internship/210819_%ED%91%9C%ED%8E%B8%EC%A7%91_L3.py) *
 
+
+## 2021 Kakao Blind Recruitment
+* [신규 아이디 추천](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2021_kakao/210821_%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C_L2.py)
+* [메뉴 리뉴얼](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2021_kakao/210822_%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC_L2.py)
+* [광고 삽입](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2021_kakao/210822_%EA%B4%91%EA%B3%A0%EC%82%BD%EC%9E%85_L3.py) *
+
+## Weekly Challange
+* [3주차: 퍼즐 조각 채우기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210821_3%EC%A3%BC%EC%B0%A8_%ED%8D%BC%EC%A6%90%EC%A1%B0%EA%B0%81%EC%B1%84%EC%9A%B0%EA%B8%B0_L3.py)
+
 <br>
 
 # Baekjoon
