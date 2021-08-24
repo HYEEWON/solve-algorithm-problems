@@ -1,3 +1,6 @@
+# 이분탐색, lower bound
+# 정확성, 효율성 모두 중요
+
 from collections import defaultdict
 from itertools import combinations
 import bisect
@@ -31,6 +34,7 @@ def solution(info, query):
             numbers = info_dict[condition]
             answer.append(len(numbers) - bisect.bisect_left(numbers, int(n)))
         else:
+            # 키가 없는 경우도 고려해야 됨
             answer.append(0)
     return answer
 
