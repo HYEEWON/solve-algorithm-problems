@@ -1,6 +1,5 @@
 # Practice for Coding Test
-* 파이썬과 자바를 이용한 코딩 테스트 준비 과정
-* 알고리즘 학습
+* 파이썬과 자바를 이용한 코딩 테스트 문제 풀이
 
 
 ## 문제 풀이 제한 시간
@@ -81,7 +80,10 @@
 ## 2021 Kakao Blind Recruitment
 * [신규 아이디 추천](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2021_kakao/210821_%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C_L2.py)
 * [메뉴 리뉴얼](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2021_kakao/210822_%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC_L2.py)
+* [순위 검색](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2021_kakao/210823_%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89_L2.py) *
+* [합승 택시 요금](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2021_kakao/210824_%ED%95%A9%EC%8A%B9%ED%83%9D%EC%8B%9C%EC%9A%94%EA%B8%88_L3.py)
 * [광고 삽입](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2021_kakao/210822_%EA%B4%91%EA%B3%A0%EC%82%BD%EC%9E%85_L3.py) *
+
 
 ## Weekly Challange
 * [3주차: 퍼즐 조각 채우기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210821_3%EC%A3%BC%EC%B0%A8_%ED%8D%BC%EC%A6%90%EC%A1%B0%EA%B0%81%EC%B1%84%EC%9A%B0%EA%B8%B0_L3.py)
@@ -145,6 +147,8 @@
 * [1717. 집합의 표현](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210201_1717_%EC%A7%91%ED%95%A9%EC%9D%98%ED%91%9C%ED%98%84_g4.py)
 * [1753. 최단 경로](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210202_1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C_g5.py)
 * [1854. K번째 최단 경로 찾기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210202_1854_K%EB%B2%88%EC%A7%B8%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C%EC%B0%BE%EA%B8%B0_p5.java) *
+* [1916. 최소 비용 구하기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/graph/210824_1916_%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B0_g5.py)
+* [11779. 최소 비용 구하기2](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/graph/210824_11779_%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B02_g3.java)
 * [1922. 네트워크 연결](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210201_1922_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%97%B0%EA%B2%B0_g4.py)
 * [2252. 줄 세우기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210201_2252_%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0_g2.java)
 * [2234. 성곽](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210214_2234_%EC%84%B1%EA%B3%BD_g4.py)
@@ -219,6 +223,8 @@
 * [2042. 구간합 구하기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210207_2042_%EA%B5%AC%EA%B0%84%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B0_g1.java)
 * [2243. 사탕상자](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210128_2243_%EC%82%AC%ED%83%95%EC%83%81%EC%9E%90_p5.java) *
 * [2250. 트리의 높이와 너비](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210216_2250_%ED%8A%B8%EB%A6%AC%EC%9D%98%EB%86%92%EC%9D%B4%EC%99%80%EB%84%88%EB%B9%84_g2.py) *
+* [2268. 수들의 합](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210824_2268_%EC%88%98%EB%93%A4%EC%9D%98%ED%95%A9_g1.java)
+* [2357. 최솟값과 최댓값](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210825_2357_%EC%B5%9C%EC%86%9F%EA%B0%92%EA%B3%BC%EC%B5%9C%EB%8C%93%EA%B0%92_g1.java) *
 * [5639. 이진 검색 트리](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210128_5639_%EC%9D%B4%EC%A7%84%EA%B2%80%EC%83%89%ED%8A%B8%EB%A6%AC_s1.py)
 * [6416. 트리인가](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210213_6416_%ED%8A%B8%EB%A6%AC%EC%9D%B8%EA%B0%80_g5.py) *
 * [9202. Boggle](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210127_9202_Boggle_trie_p5.py) ***
