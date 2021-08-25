@@ -68,7 +68,7 @@ def backTracking(y, x, cnt, word):
 
 trie = Trie()
 
-W = int(sys.stdin.readline().strip())
+W = int(sys.stdin.readline())
 for i in range(W):
     word = sys.stdin.readline().strip()
     trie.insert(word)
