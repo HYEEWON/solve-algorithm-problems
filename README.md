@@ -148,8 +148,8 @@
 * [1753. 최단 경로](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210202_1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C_g5.py)
 * [1854. K번째 최단 경로 찾기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210202_1854_K%EB%B2%88%EC%A7%B8%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C%EC%B0%BE%EA%B8%B0_p5.java) *
 * [1916. 최소 비용 구하기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/graph/210824_1916_%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B0_g5.py)
-* [11779. 최소 비용 구하기2](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/graph/210824_11779_%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B02_g3.java)
 * [1922. 네트워크 연결](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210201_1922_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%97%B0%EA%B2%B0_g4.py)
+* [1963. 소수 경로](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/graph/210825_1963_%EC%86%8C%EC%88%98%EA%B2%BD%EB%A1%9C_g5.java)
 * [2252. 줄 세우기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210201_2252_%EC%A4%84%EC%84%B8%EC%9A%B0%EA%B8%B0_g2.java)
 * [2234. 성곽](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210214_2234_%EC%84%B1%EA%B3%BD_g4.py)
 * [2458. 키 순서](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210201_2458_%ED%82%A4%EC%88%9C%EC%84%9C_g4.java) *
@@ -165,6 +165,7 @@
 * [11438. LCA2](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210201_11438_LCA2_p5.java) **
 * [11657. 타임머신](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210202_11657_%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0_g4.java)
 * [11724. 연결 요소의 개수](https://github.com/HYEEWON/practice_for_coding_test/blob/main/baekjoon/graph/210419_11724_%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C%EC%9D%98%EA%B0%9C%EC%88%98_s2.py)
+* [11779. 최소 비용 구하기2](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/graph/210824_11779_%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B02_g3.java)
 * [14502. 연구소](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210209_14502_%EC%97%B0%EA%B5%AC%EC%86%8C_g5.py)
 * [16234. 인구이동](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210222_16234_%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99_g5.py)
 * [16236. 아기 상어](https://github.com/HYEEWON/practice_for_coding_test/blob/main/baekjoon/graph/210328_16236_%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4_g4.py) *
@@ -217,6 +218,7 @@
 
 ## Tree
 * [1068. 트리](https://github.com/HYEEWON/practice_for_coding_test/blob/main/baekjoon/tree/210328_1068_%ED%8A%B8%EB%A6%AC_s1.py)
+* [1167. 트리의 지름](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210825_1167_%ED%8A%B8%EB%A6%AC%EC%9D%98%EC%A7%80%EB%A6%84_g3.py)
 * [1275. 커피숍2](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210128_1275_%EC%BB%A4%ED%94%BC%EC%88%8D2_g1.java) ***
 * [1967. 트리의 지름](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210224_1967_%ED%8A%B8%EB%A6%AC%EC%9D%98%EC%A7%80%EB%A6%84_g4.py)
 * [1991. 트리 순회](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210127_1991_%ED%8A%B8%EB%A6%AC%EC%88%9C%ED%9A%8C_s1.py) *
@@ -225,9 +227,12 @@
 * [2250. 트리의 높이와 너비](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210216_2250_%ED%8A%B8%EB%A6%AC%EC%9D%98%EB%86%92%EC%9D%B4%EC%99%80%EB%84%88%EB%B9%84_g2.py) *
 * [2268. 수들의 합](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210824_2268_%EC%88%98%EB%93%A4%EC%9D%98%ED%95%A9_g1.java)
 * [2357. 최솟값과 최댓값](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210825_2357_%EC%B5%9C%EC%86%9F%EA%B0%92%EA%B3%BC%EC%B5%9C%EB%8C%93%EA%B0%92_g1.java) *
+* [4256. 트리](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210825_4256_%ED%8A%B8%EB%A6%AC_g4.py)
 * [5639. 이진 검색 트리](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210128_5639_%EC%9D%B4%EC%A7%84%EA%B2%80%EC%83%89%ED%8A%B8%EB%A6%AC_s1.py)
 * [6416. 트리인가](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210213_6416_%ED%8A%B8%EB%A6%AC%EC%9D%B8%EA%B0%80_g5.py) *
 * [9202. Boggle](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210127_9202_Boggle_trie_p5.py) ***
+* [9934. 완전 이진 트리](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210825_9934_%EC%99%84%EC%A0%84%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC_s1.py)
+* [14425. 문자열 집합](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210825_14425_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%A7%91%ED%95%A9_s3.py)
 
 ## Two Pointer
 * [1806. 부분합](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/two-pointer/210126_1806_%EB%B6%80%EB%B6%84%ED%95%A9_g4.py)
