@@ -1,5 +1,4 @@
 import sys
-from collections import defaultdict
 
 n = int(sys.stdin.readline().strip())
 m = int(sys.stdin.readline().strip())
