@@ -95,6 +95,7 @@
 ## Weekly Challange
 * [2주차: 상호 평가](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210826_2%EC%A3%BC%EC%B0%A8_%EC%83%81%ED%98%B8%ED%8F%89%EA%B0%80_L2.py)
 * [3주차: 퍼즐 조각 채우기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210821_3%EC%A3%BC%EC%B0%A8_%ED%8D%BC%EC%A6%90%EC%A1%B0%EA%B0%81%EC%B1%84%EC%9A%B0%EA%B8%B0_L3.py)
+* [4주차: 직업군 추천하기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210827_4%EC%A3%BC%EC%B0%A8_%EC%A7%81%EC%97%85%EA%B5%B0%EC%B6%94%EC%B2%9C%ED%95%98%EA%B8%B0_L2.py)
 
 <br>
 
@@ -176,11 +177,13 @@
 * [11657. 타임머신](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210202_11657_%ED%83%80%EC%9E%84%EB%A8%B8%EC%8B%A0_g4.java)
 * [11724. 연결 요소의 개수](https://github.com/HYEEWON/practice_for_coding_test/blob/main/baekjoon/graph/210419_11724_%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C%EC%9D%98%EA%B0%9C%EC%88%98_s2.py)
 * [11779. 최소 비용 구하기2](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/graph/210824_11779_%EC%B5%9C%EC%86%8C%EB%B9%84%EC%9A%A9%EA%B5%AC%ED%95%98%EA%B8%B02_g3.java)
+* [11780. 플로이드2](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/graph/210829_11780_%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C2_g3.py)
 * [14502. 연구소](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210209_14502_%EC%97%B0%EA%B5%AC%EC%86%8C_g5.py)
 * [16234. 인구이동](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210222_16234_%EC%9D%B8%EA%B5%AC%EC%9D%B4%EB%8F%99_g5.py)
 * [16236. 아기 상어](https://github.com/HYEEWON/practice_for_coding_test/blob/main/baekjoon/graph/210328_16236_%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4_g4.py) *
 
 ## Greedy
+* [1946. 신입사원](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/greedy/210829_1946_%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90_s1.py)
 * [2217. 로프](https://github.com/HYEEWON/practice_for_coding_test/blob/main/baekjoon/greedy/210404_2217_%EB%A1%9C%ED%94%84_s4.py)
 * [2437. 저울](https://github.com/HYEEWON/practice_for_coding_test/blob/main/baekjoon/greedy/210407_2437_%EC%A0%80%EC%9A%B8_g3.py)
 
@@ -205,6 +208,7 @@
 * [20055. 컨베이어 벨트 위의 로봇](https://github.com/HYEEWON/practice_for_coding_test/blob/main/baekjoon/implementation/210418_20055_%EC%BB%A8%EB%B2%A0%EC%9D%B4%EC%96%B4%EB%B2%A8%ED%8A%B8%EC%9C%84%EC%9D%98%EB%A1%9C%EB%B4%87_s1.py)
 
 ## Number Theory
+* [1735. 분수 합](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/number-theory/210128_1735_%EB%B6%84%EC%88%98%ED%95%A9_s2.py)
 * [4375. 1](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/number-theory/210128_4375_1_s3.java) *
 * [5376. 소수를 분수로](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/number-theory/210128_5376_%EC%86%8C%EC%88%98%EB%A5%BC%EB%B6%84%EC%88%98%EB%A1%9C_s1.java) *
 * [6588. 골든바흐의 추측](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/number-theory/210129_6588_%EA%B3%A8%EB%93%A0%EB%B0%94%ED%9D%90%EC%9D%98%EC%B6%94%EC%B8%A1_s1.py)
@@ -238,6 +242,7 @@
 * [2250. 트리의 높이와 너비](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210216_2250_%ED%8A%B8%EB%A6%AC%EC%9D%98%EB%86%92%EC%9D%B4%EC%99%80%EB%84%88%EB%B9%84_g2.py) *
 * [2268. 수들의 합](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210824_2268_%EC%88%98%EB%93%A4%EC%9D%98%ED%95%A9_g1.java)
 * [2357. 최솟값과 최댓값](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210825_2357_%EC%B5%9C%EC%86%9F%EA%B0%92%EA%B3%BC%EC%B5%9C%EB%8C%93%EA%B0%92_g1.java) *
+* [3584. 가장 가까운 공통 조상](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210829_3584_%EA%B0%80%EC%9E%A5%EA%B0%80%EA%B9%8C%EC%9A%B4%EA%B3%B5%ED%86%B5%EC%A1%B0%EC%83%81_g4.py)
 * [4256. 트리](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210825_4256_%ED%8A%B8%EB%A6%AC_g4.py)
 * [4803. 트리](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210826_4803_%ED%8A%B8%EB%A6%AC_g4.py)
 * [5639. 이진 검색 트리](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210128_5639_%EC%9D%B4%EC%A7%84%EA%B2%80%EC%83%89%ED%8A%B8%EB%A6%AC_s1.py)
