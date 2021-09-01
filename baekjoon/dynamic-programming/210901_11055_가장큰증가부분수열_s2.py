@@ -11,5 +11,5 @@ for i in range(N):
     for j in range(i):
         if A[i] > A[j] and dp[i] < (dp[j] + A[i]):
             dp[i] = dp[j] + A[i]
-            answer = max(answer, dp[i])
+    answer = max(answer, dp[i])
 sys.stdout.write(str(answer))
