@@ -93,7 +93,8 @@
 ## 2020 Kakao Internship
 * [키패드 누르기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2020_kakao_internship/210902_%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0_L2.py)
 * [수식 최대화](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2020_kakao_internship/210902_%EC%88%98%EC%8B%9D%EC%B5%9C%EB%8C%80%ED%99%94_L2.py)
-
+* [보석 쇼핑](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2020_kakao_internship/210910_%EB%B3%B4%EC%84%9D%EC%87%BC%ED%95%91_L3.py) *
+* [경주로 건설](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2020_kakao_internship/210903_%EA%B2%BD%EC%A3%BC%EB%A1%9C%EA%B1%B4%EC%84%A4_L3.py)
 
 ## 2021 Kakao Internship
 * [거리두기 확인하기](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_2021_kakao_internship/210729_%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0_L2.py)
@@ -107,6 +108,7 @@
 * [3주차: 퍼즐 조각 채우기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210821_3%EC%A3%BC%EC%B0%A8_%ED%8D%BC%EC%A6%90%EC%A1%B0%EA%B0%81%EC%B1%84%EC%9A%B0%EA%B8%B0_L3.py)
 * [4주차: 직업군 추천하기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210827_4%EC%A3%BC%EC%B0%A8_%EC%A7%81%EC%97%85%EA%B5%B0%EC%B6%94%EC%B2%9C%ED%95%98%EA%B8%B0_L2.py)
 * [5주차: 모음 사전](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210831_5%EC%A3%BC%EC%B0%A8_%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84_L2.py)
+* [6주차: 복사 정렬하기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210907_6%EC%A3%BC%EC%B0%A8_%EB%B3%B5%EC%82%AC%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_L2.py)
 
 <br>
 
@@ -163,7 +165,7 @@
 * [11727. 2n 타일링2(java)](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/dynamic-programming/210902_11727_2n%ED%83%80%EC%9D%BC%EB%A7%812_s3.java)
 * [12865. 평범한 배낭](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210208_12865_%ED%8F%89%EB%B2%94%ED%95%9C%EB%B0%B0%EB%82%AD_g5.py)
 * [15989. 1,2,3 더하기4](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210212_15989_1%2C2%2C3%EB%8D%94%ED%95%98%EA%B8%B04_s1.py)
-* [15990. 1,2,3 더하기5](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210212_15990_1%2C2%2C3%EB%8D%94%ED%95%98%EA%B8%B05_s3.py) *
+* [15990. 1,2,3 더하기5](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/dynamic-programming/210906_15990_123%EB%8D%94%ED%95%98%EA%B8%B05.py) *
 
 ## Graph
 * [1238. 파티](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/graph/210827_1238_%ED%8C%8C%ED%8B%B0_g3.java)
