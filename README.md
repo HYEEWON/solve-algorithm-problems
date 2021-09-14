@@ -153,7 +153,7 @@
 * [5582. 공통 부분 문자열](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210204_5582_%EA%B3%B5%ED%86%B5%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4_g5.java)
 * [7579. 앱](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210204_7579_%EC%95%B1_g3.java) *
 * [9095. 1, 2, 3 더하기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210208_9095_1%2C2%2C3%EB%8D%94%ED%95%98%EA%B8%B0_s3.py)
-* [9184_신나는함수실행]()
+* [9184. 신나는 함수 실행](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/dynamic-programming/210315_9184_%EC%8B%A0%EB%82%98%EB%8A%94%ED%95%A8%EC%88%98%EC%8B%A4%ED%96%89_s2.py)
 * [9252. LCS2](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210204_9252_LCS2_g5.java) *
 * [9711. 피보나치](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/dynamic-programming/210901_9711_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98_s1.java)
 * [11049. 행렬 곱셈 순서](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210203_11049_%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%88%EC%88%9C%EC%84%9C_g3.java) ***
