@@ -1,3 +1,5 @@
+// 세그먼트 트리
+
 import java.io.*;
 import java.util.*;
 
