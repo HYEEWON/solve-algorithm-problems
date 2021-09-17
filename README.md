@@ -134,6 +134,7 @@
 * [15664. N과 M(10)](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/combinatorics/210129_15664_N%EA%B3%BCM(10)_s2.java)
 
 ## Dynamic Programming
+* [1010. 다리 놓기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/dynamic-programming/210915_1010_%EB%8B%A4%EB%A6%AC%EB%86%93%EA%B8%B0_s5.py)
 * [1256. 사전](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210129_1256_%EC%82%AC%EC%A0%84_g3.py) *
 * [1520. 내리막길](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210209_1520_%EB%82%B4%EB%A6%AC%EB%A7%89%EA%B8%B8_g4.py)
 * [1915. 가장 큰 정사각형](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210203_1915_%EA%B0%80%EC%9E%A5%ED%81%B0%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95_g5.java) *
@@ -205,6 +206,7 @@
 * [16236. 아기 상어](https://github.com/HYEEWON/practice_for_coding_test/blob/main/baekjoon/graph/210328_16236_%EC%95%84%EA%B8%B0%EC%83%81%EC%96%B4_g4.py) *
 
 ## Greedy
+* [1202. 보석 도둑](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/greedy/210915_1202_%EB%B3%B4%EC%84%9D%EB%8F%84%EB%91%91_g2.java) *
 * [1946. 신입사원](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/greedy/210829_1946_%EC%8B%A0%EC%9E%85%EC%82%AC%EC%9B%90_s1.py)
 * [2217. 로프](https://github.com/HYEEWON/practice_for_coding_test/blob/main/baekjoon/greedy/210404_2217_%EB%A1%9C%ED%94%84_s4.py)
 * [2437. 저울](https://github.com/HYEEWON/practice_for_coding_test/blob/main/baekjoon/greedy/210407_2437_%EC%A0%80%EC%9A%B8_g3.py)
@@ -223,6 +225,7 @@
 * [3190. 뱀](https://github.com/HYEEWON/practice_for_coding_test/blob/main/baekjoon/implementation/210425_3190_%EB%B1%80_g5.py)
 * [3425. 고스택](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/implementation/210125_3425_%EA%B3%A0%EC%8A%A4%ED%83%9D_g4.java)
 * [12100. 2048(easy)](https://github.com/HYEEWON/practice_for_coding_test/blob/main/baekjoon/implementation/210421_12100_2048(easy)_g2.py)
+* [14499. 주사위 굴리기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/implementation/210915_14499_%EC%A3%BC%EC%82%AC%EC%9C%84%EA%B5%B4%EB%A6%AC%EA%B8%B0_g4.py)
 * [15686. 치킨배달](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/implementation/210125_15686_%EC%B9%98%ED%82%A8%EB%B0%B0%EB%8B%AC_g5.java) *
 * [14503. 로봇 청소기](https://github.com/HYEEWON/practice_for_coding_test/blob/main/baekjoon/implementation/210310_14503_%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0_g5.py)
 * [19236. 청소년 상어](https://github.com/HYEEWON/practice_for_coding_test/blob/main/baekjoon/implementation/210419_19236_%EC%B2%AD%EC%86%8C%EB%85%84%EC%83%81%EC%96%B4_g2.py)
@@ -230,6 +233,7 @@
 * [20055. 컨베이어 벨트 위의 로봇](https://github.com/HYEEWON/practice_for_coding_test/blob/main/baekjoon/implementation/210418_20055_%EC%BB%A8%EB%B2%A0%EC%9D%B4%EC%96%B4%EB%B2%A8%ED%8A%B8%EC%9C%84%EC%9D%98%EB%A1%9C%EB%B4%87_s1.py)
 
 ## Math
+* [1016. 제곱 ㄴㄴ수](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/math/210915_1016_%EC%A0%9C%EA%B3%B1%E3%84%B4%E3%84%B4%EC%88%98_g1.py)
 * [1735. 분수 합](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/math/210128_1735_%EB%B6%84%EC%88%98%ED%95%A9_s2.py)
 * [4375. 1](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/math/210128_4375_1_s3.java) *
 * [5376. 소수를 분수로](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/math/210128_5376_%EC%86%8C%EC%88%98%EB%A5%BC%EB%B6%84%EC%88%98%EB%A1%9C_s1.java) *
@@ -276,6 +280,7 @@
 * [11437. LCA](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210827_11437_LCA_g3.java)
 * [11505. 구간 곱 구하기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210913_11505_%EA%B5%AC%EA%B0%84%EA%B3%B1%EA%B5%AC%ED%95%98%EA%B8%B0_g1.java)
 * [14425. 문자열 집합](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210825_14425_%EB%AC%B8%EC%9E%90%EC%97%B4%EC%A7%91%ED%95%A9_s3.py)
+* [18436. 수열과 쿼리 37](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210918_18436_%EC%88%98%EC%97%B4%EA%B3%BC%EC%BF%BC%EB%A6%AC37_g1.java)
 
 ## Two Pointer
 * [1806. 부분합](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/two-pointer/210126_1806_%EB%B6%80%EB%B6%84%ED%95%A9_g4.py)
