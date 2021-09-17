@@ -1,3 +1,6 @@
+# For문에서 순회하는 범위를 줄이는 것이 중요
+# 에라토스테네스의 체와 비슷
+
 import sys
 
 MIN, MAX = map(int, sys.stdin.readline().strip().split())
