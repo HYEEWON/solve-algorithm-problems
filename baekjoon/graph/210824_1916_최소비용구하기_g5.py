@@ -15,6 +15,7 @@ class Bus:
         self.end = end
         self.cost = cost
 
+
 for i in range(M):
     start, end, cost = map(int, sys.stdin.readline().strip().split())
     buses[start].append(Bus(end, cost))

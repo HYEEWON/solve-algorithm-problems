@@ -109,6 +109,7 @@
 * [4주차: 직업군 추천하기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210827_4%EC%A3%BC%EC%B0%A8_%EC%A7%81%EC%97%85%EA%B5%B0%EC%B6%94%EC%B2%9C%ED%95%98%EA%B8%B0_L2.py)
 * [5주차: 모음 사전](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210831_5%EC%A3%BC%EC%B0%A8_%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84_L2.py)
 * [6주차: 복사 정렬하기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210907_6%EC%A3%BC%EC%B0%A8_%EB%B3%B5%EC%82%AC%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_L2.py)
+* [7주차: 입실 퇴실](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210923_7%EC%A3%BC%EC%B0%A8_%EC%9E%85%EC%8B%A4%ED%87%B4%EC%8B%A4_L2.py)
 
 <br>
 
@@ -193,7 +194,8 @@
 * [3176. 도로 네트워크](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210201_3176_%EB%8F%84%EB%A1%9C%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_p4.java) *
 * [3830. 교수님은 기다리지 않는다](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210201_3830_%EA%B5%90%EC%88%98%EB%8B%98%EC%9D%80%EA%B8%B0%EB%8B%A4%EB%A6%AC%EC%A7%80%EC%95%8A%EB%8A%94%EB%8B%A4_p4.java) **
 * [3860. 할로윈 묘지](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210203_3860_%ED%95%A0%EB%A1%9C%EC%9C%88%EB%AC%98%EC%A7%80_p5.java) ***
-* [5719. 거의 최단 경로](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210202_5719_%EA%B1%B0%EC%9D%98%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C_p5.java) *
+* [5719. 거의 최단 경로(java)](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210202_5719_%EA%B1%B0%EC%9D%98%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C_p5.java) *
+* [5719. 거의 최단 경로(python)](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/graph/210923_5719_%EA%B1%B0%EC%9D%98%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C_p5.py) *
 * [10026. 적록색약](https://github.com/HYEEWON/practice_for_coding_test/blob/main/baekjoon/graph/210328_10026_%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD_g5.py)
 * [11266. 단절점](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210202_11266_%EB%8B%A8%EC%A0%88%EC%A0%90_p5.java) *
 * [11400. 단절선](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210202_11400_%EB%8B%A8%EC%A0%88%EC%84%A0_p5.java) *
@@ -265,6 +267,7 @@
 * [1197. 최소 스패닝 트리](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210830_1197_%EC%B5%9C%EC%86%8C%EC%8A%A4%ED%8C%A8%EB%8B%9D%ED%8A%B8%EB%A6%AC_g4.py)
 * [1275. 커피숍2](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210128_1275_%EC%BB%A4%ED%94%BC%EC%88%8D2_g1.java) ***
 * [1761. 정점들의 거리](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210919_1761_%EC%A0%95%EC%A0%90%EB%93%A4%EC%9D%98%EA%B1%B0%EB%A6%AC_p5.java)
+* [1777. 순열 복원](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210922_1777_%EC%88%9C%EC%97%B4%EB%B3%B5%EC%9B%90_p5.java)
 * [1967. 트리의 지름](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210224_1967_%ED%8A%B8%EB%A6%AC%EC%9D%98%EC%A7%80%EB%A6%84_g4.py)
 * [1991. 트리 순회](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210127_1991_%ED%8A%B8%EB%A6%AC%EC%88%9C%ED%9A%8C_s1.py) *
 * [2042. 구간합 구하기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210207_2042_%EA%B5%AC%EA%B0%84%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B0_g1.java)
@@ -277,6 +280,7 @@
 * [4803. 트리](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210826_4803_%ED%8A%B8%EB%A6%AC_g4.py)
 * [5639. 이진 검색 트리](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210128_5639_%EC%9D%B4%EC%A7%84%EA%B2%80%EC%83%89%ED%8A%B8%EB%A6%AC_s1.py)
 * [6416. 트리인가](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210213_6416_%ED%8A%B8%EB%A6%AC%EC%9D%B8%EA%B0%80_g5.py) *
+* [6497. 전력난](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210923_6497_%EC%A0%84%EB%A0%A5%EB%82%9C_g4.java)
 * [6597. 트리 복구](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210827_6597_%ED%8A%B8%EB%A6%AC%EB%B3%B5%EA%B5%AC_g3.py)
 * [8012. 한동이는 영업 사원!](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/tree/210920_8012_%ED%95%9C%EB%8F%99%EC%9D%B4%EB%8A%94%EC%98%81%EC%97%85%EC%82%AC%EC%9B%90_p4.java)
 * [9202. Boggle](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/tree/210127_9202_Boggle_trie_p5.py) ***
