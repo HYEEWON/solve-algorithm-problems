@@ -1,5 +1,6 @@
 # 다익스트라
 # 거의 최단 경로: 최단 경로에 포함되지 않는 도로로만 이루어진 경로 중 가장 짧은 것
+# 최단 경로 검색 -> bfs로 해당 경로 삭제 -> 거의 최단 경로 검색
 
 import sys, heapq
 from collections import deque
