@@ -77,6 +77,7 @@
 * [매칭점수(java)](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao/%EB%A7%A4%EC%B9%AD%EC%A0%90%EC%88%98_L3_210113.java)
 * [블록게임](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao/210120_%EB%B8%94%EB%A1%9D%EA%B2%8C%EC%9E%84_L4.py) *
 
+
 ## 2020 Kakao Blind Recruitment
 * [블록 이동하기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2020_kakao/210901_%EB%B8%94%EB%A1%9D%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0_L3.py)
 
@@ -110,6 +111,7 @@
 * [5주차: 모음 사전](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210831_5%EC%A3%BC%EC%B0%A8_%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84_L2.py)
 * [6주차: 복사 정렬하기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210907_6%EC%A3%BC%EC%B0%A8_%EB%B3%B5%EC%82%AC%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_L2.py)
 * [7주차: 입실 퇴실](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210923_7%EC%A3%BC%EC%B0%A8_%EC%9E%85%EC%8B%A4%ED%87%B4%EC%8B%A4_L2.py)
+* [8주차: 최소 직사각형](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/211002_8%EC%A3%BC%EC%B0%A8_%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95_L2.py)
 
 <br>
 
