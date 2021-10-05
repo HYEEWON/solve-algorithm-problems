@@ -2,15 +2,16 @@ from collections import deque, defaultdict
 import sys
 
 graph = defaultdict(list)
-def bfs(n, w, visit):
-    visit[n] = 1
+
+def bfs(x, w, visit):
+    visit[x] = 1
 
     q = deque()
-    q.append((n, 1))
-    cnt = 0
+    q.append(x)
+    cnt = 1
 
     while q:
-        n, cnt = q.popleft()
+        n = q.popleft()
 
         for node in graph[n]:
             if [node, n] == w or [n, node] == w:
@@ -19,7 +20,7 @@ def bfs(n, w, visit):
                 continue
             visit[node] = 1
             cnt += 1
-            q.append((node, cnt))
+            q.append(node)
 
     return cnt
 
@@ -36,8 +37,10 @@ def solution(n, wires):
         for x in range(1, n+1):
             if visit[x] == 0:
                 cnt.append(bfs(x, wires[i], visit))
-
+                print(visit)
+                print(cnt)
         answer = min(answer, abs(cnt[0]-cnt[1]))
     return answer
 
 print(solution(9, [[1,3],[2,3],[3,4],[4,5],[4,6],[4,7],[7,8],[7,9]]))
+#print(solution(4, [[1,2],[2,3],[3,4]]))
