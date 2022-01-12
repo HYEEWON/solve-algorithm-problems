@@ -78,6 +78,10 @@
 * [블록게임](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao/210120_%EB%B8%94%EB%A1%9D%EA%B2%8C%EC%9E%84_L4.py) *
 
 
+## 2019 Kakao Internship
+* [튜플](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao_internship/220112_%ED%8A%9C%ED%94%8C_L2.py)
+
+
 ## 2020 Kakao Blind Recruitment
 * [블록 이동하기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2020_kakao/210901_%EB%B8%94%EB%A1%9D%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0_L3.py)
 
@@ -112,6 +116,10 @@
 * [6주차: 복사 정렬하기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210907_6%EC%A3%BC%EC%B0%A8_%EB%B3%B5%EC%82%AC%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_L2.py)
 * [7주차: 입실 퇴실](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210923_7%EC%A3%BC%EC%B0%A8_%EC%9E%85%EC%8B%A4%ED%87%B4%EC%8B%A4_L2.py)
 * [8주차: 최소 직사각형](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/211002_8%EC%A3%BC%EC%B0%A8_%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95_L2.py)
+* [9주차: 전력망을 둘로 나누기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/211005_9%EC%A3%BC%EC%B0%A8_%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%EB%91%98%EB%A1%9C%EB%82%98%EB%88%84%EA%B8%B0_L2.py)
+* [10주차: 교점에 별 만들기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/211207_10%EC%A3%BC%EC%B0%A8_%EA%B5%90%EC%A0%90%EC%97%90%EB%B3%84%EB%A7%8C%EB%93%A4%EA%B8%B0_L2.py)
+* [11주차: 아이템 줍기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/220111_11%EC%A3%BC%EC%B0%A8_%EC%95%84%EC%9D%B4%ED%85%9C%EC%A4%8D%EA%B8%B0_L3.py) *
+* [12주차: 피로도](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/211216_12%EC%A3%BC%EC%B0%A8_%ED%94%BC%EB%A1%9C%EB%8F%84_L2.py)
 
 <br>
 
@@ -153,7 +161,8 @@
 * [2293. 동전1](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210227_2293_%EB%8F%99%EC%A0%841_s1.py) *
 * [2342. Dance Dance Revolution](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210204_2342_DanceDanceRevolution_g3.java)
 * [2533. 사회망 서비스(SNS)](https://github.com/HYEEWON/practice_for_coding_test/blob/main/baekjoon/dynamic-programming/210311_2533_%EC%82%AC%ED%9A%8C%EB%A7%9D%EC%84%9C%EB%B9%84%EC%8A%A4(SNS)_g3.py) *
-* [2579. 계단 오르기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210203_2579_%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0.s3.py)
+* [2579. 계단 오르기(python)](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/dynamic-programming/210203_2579_%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0_s3.py)
+* [2579. 계단 오르기(java)](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/dynamic-programming/220105_2579_%EA%B3%84%EB%8B%A8%EC%98%A4%EB%A5%B4%EA%B8%B0_s3.java)
 * [2748. 피보나치 수2](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210126_2748_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%982_b1.py)
 * [5569. 출근 경로](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210129_5569_%EC%B6%9C%EA%B7%BC%EA%B2%BD%EB%A1%9C_g5.java) *
 * [5582. 공통 부분 문자열](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/dynamic-programming/210204_5582_%EA%B3%B5%ED%86%B5%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4_g5.java)
