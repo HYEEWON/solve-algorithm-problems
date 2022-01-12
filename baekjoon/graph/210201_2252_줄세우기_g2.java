@@ -14,6 +14,8 @@ public class Main {
 
         N = Integer.parseInt(st.nextToken());
         M = Integer.parseInt(st.nextToken());
+        
+        // 키가 작은 사람 -> 키가 큰 사람
         inDegree = new int[N+1];
         adjList = new ArrayList[N+1];
         for(int i=0; i<N+1; i++){
