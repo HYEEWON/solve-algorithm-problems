@@ -16,7 +16,7 @@
 
 <br>
 
-# 🐣 Programmers 
+# 🌈 Programmers 
 ## 고득점 KIT
 ### 해시
 * [완주하지 못한 선수](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210228_%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98_%ED%95%B4%EC%8B%9C_L1.py)
@@ -125,7 +125,7 @@
 
 <br>
 
-# 🐳 Baekjoon
+# 🌈 Baekjoon
 ## Backtracking
 * [1759. 암호만들기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/backtracking/210125_1759_%EC%95%94%ED%98%B8%EB%A7%8C%EB%93%A4%EA%B8%B0_g5.py)
 * [1987. 알파벳](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/backtracking/210208_1987_%EC%95%8C%ED%8C%8C%EB%B2%B3_g4.py)
@@ -311,5 +311,5 @@
 
 <br>
 
-# Leet Code
+# 🌈 Leet Code
 * [1048. Longest String Chain](https://github.com/HYEEWON/practice_for_coding_test/blob/master/leetcode/210116_1048_LongestStringChain_medium.py)
