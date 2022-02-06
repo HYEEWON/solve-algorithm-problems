@@ -19,7 +19,7 @@ def solution(user_id, banned_id):
         if not check(users, banned_id):
             continue
         else:
-            users = set(users)
+            users = set(users) # 중복 제거, sort() 해도 됨
             if users not in answer:
                 answer.append(users)
 
