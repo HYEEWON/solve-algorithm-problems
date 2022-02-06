@@ -1,33 +1,26 @@
-import re
+from itertools import permutations
 
-def multi(arr):
-    return eval('*'.join([str(n) for n in arr]))
+def check(users, banned_id):
+    for i in range(len(banned_id)):
+        if len(users[i]) != len(banned_id[i]):
+            return False
+        for j in range(len(users[i])):
+            if banned_id[i][j] == '*':
+                continue
+            if banned_id[i][j] != users[i][j]:
+                return False
+    return True
 
 def solution(user_id, banned_id):
-    answer = 0
-    patterns = ['' for i in range(len(banned_id))]
-    cnt = [0 for i in range(len(banned_id))]
+    user_permutation = list(permutations(user_id, len(banned_id)))
+    answer = []
 
-    for idx in range(len(banned_id)):
-        ban = banned_id[idx].split('*')
-        pattern = '^'
-        for i in range(len(ban)):
-            if ban[i] == '':
-                pattern += '.'
-            else:
-                pattern += ban[i]
-                if i != len(ban)-1 and ban[i+1] != '':
-                    pattern += '.'
-        patterns[idx] = pattern + '$'
-    #print(patterns)
-    for i in range(len(patterns)):
-        pattern = re.compile(patterns[i])
-        for id in user_id:
-            #print(pattern.match(id), id)
-            if pattern.match(id) != None:
-                cnt[i] += 1
-    #print(cnt)
+    for users in user_permutation:
+        if not check(users, banned_id):
+            continue
+        else:
+            users = set(users)
+            if users not in answer:
+                answer.append(users)
 
-    return multi(cnt)
-
-print(solution(["frodo", "fradi", "crodo", "abc123", "frodoc"], ["fr*d*", "abc1**"]))
+    return len(answer)
