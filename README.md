@@ -79,7 +79,9 @@
 
 
 ## 2019 Kakao Internship
+* [크레인 인형뽑기 게임](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao_internship/220206_%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84_L1.py)
 * [튜플](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao_internship/220112_%ED%8A%9C%ED%94%8C_L2.py)
+* [불량 사용자](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao_internship/220117_%EB%B6%88%EB%9F%89%EC%82%AC%EC%9A%A9%EC%9E%90_L3.py) *
 
 
 ## 2020 Kakao Blind Recruitment
