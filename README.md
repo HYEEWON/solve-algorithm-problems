@@ -82,10 +82,18 @@
 * [크레인 인형뽑기 게임](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao_internship/220206_%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84_L1.py)
 * [튜플](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao_internship/220112_%ED%8A%9C%ED%94%8C_L2.py)
 * [불량 사용자](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao_internship/220117_%EB%B6%88%EB%9F%89%EC%82%AC%EC%9A%A9%EC%9E%90_L3.py) *
+* [징검다리 건너기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao_internship/220210_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%EA%B1%B4%EB%84%88%EA%B8%B0_L3.py) *
 
 
 ## 2020 Kakao Blind Recruitment
 * [블록 이동하기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2020_kakao/210901_%EB%B8%94%EB%A1%9D%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0_L3.py)
+
+
+## 2020 Kakao Internship
+* [키패드 누르기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2020_kakao_internship/210902_%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0_L2.py)
+* [수식 최대화](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2020_kakao_internship/210902_%EC%88%98%EC%8B%9D%EC%B5%9C%EB%8C%80%ED%99%94_L2.py)
+* [보석 쇼핑](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2020_kakao_internship/210910_%EB%B3%B4%EC%84%9D%EC%87%BC%ED%95%91_L3.py) *
+* [경주로 건설](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2020_kakao_internship/210903_%EA%B2%BD%EC%A3%BC%EB%A1%9C%EA%B1%B4%EC%84%A4_L3.py)
 
 
 ## 2021 Kakao Blind Recruitment
@@ -96,12 +104,6 @@
 * [광고 삽입](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2021_kakao/210822_%EA%B4%91%EA%B3%A0%EC%82%BD%EC%9E%85_L3.py) *
 * [카드 짝 맞추기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2021_kakao/210831_%EC%B9%B4%EB%93%9C%EC%A7%9D%EB%A7%9E%EC%B6%94%EA%B8%B0_L3.py) *
 
-
-## 2020 Kakao Internship
-* [키패드 누르기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2020_kakao_internship/210902_%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0_L2.py)
-* [수식 최대화](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2020_kakao_internship/210902_%EC%88%98%EC%8B%9D%EC%B5%9C%EB%8C%80%ED%99%94_L2.py)
-* [보석 쇼핑](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2020_kakao_internship/210910_%EB%B3%B4%EC%84%9D%EC%87%BC%ED%95%91_L3.py) *
-* [경주로 건설](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2020_kakao_internship/210903_%EA%B2%BD%EC%A3%BC%EB%A1%9C%EA%B1%B4%EC%84%A4_L3.py)
 
 ## 2021 Kakao Internship
 * [거리두기 확인하기](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_2021_kakao_internship/210729_%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0_L2.py)
