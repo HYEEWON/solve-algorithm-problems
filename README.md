@@ -128,6 +128,7 @@
 <br>
 
 # 🌈 Baekjoon
+
 ## Backtracking
 * [1759. 암호만들기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/backtracking/210125_1759_%EC%95%94%ED%98%B8%EB%A7%8C%EB%93%A4%EA%B8%B0_g5.py)
 * [1987. 알파벳](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/backtracking/210208_1987_%EC%95%8C%ED%8C%8C%EB%B2%B3_g4.py)
@@ -314,4 +315,7 @@
 <br>
 
 # 🌈 Leet Code
+
+* [1. Two Sum](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/Array/220222_1_TwoSum_Easy.py)
+* [3. Longest Substring Without Repeating Characters](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/String/220223_3_LongestSubstringWithoutRepeatingCharacters_Medium.py) *
 * [1048. Longest String Chain](https://github.com/HYEEWON/practice_for_coding_test/blob/master/leetcode/210116_1048_LongestStringChain_medium.py)
