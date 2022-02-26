@@ -24,4 +24,3 @@ class Solution:
             dp[i] = max(dp[i - 1], dp[i])
         return dp[len(prices) - 1]
         '''
-        
