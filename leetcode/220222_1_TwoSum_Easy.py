@@ -1,3 +1,5 @@
+# Array, Hash Table
+
 class Solution:
     
     # 풀이
