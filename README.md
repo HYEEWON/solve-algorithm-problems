@@ -316,6 +316,7 @@
 
 # 🌈 Leet Code
 
-* [1. Two Sum](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/Array/220222_1_TwoSum_Easy.py)
-* [3. Longest Substring Without Repeating Characters](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/String/220223_3_LongestSubstringWithoutRepeatingCharacters_Medium.py) *
+* [1. Two Sum](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220222_1_TwoSum_Easy.py)
+* [3. Longest Substring Without Repeating Characters](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220223_3_LongestSubstringWithoutRepeatingCharacters_Medium.py) *
+* [121. Best Time to Buy and Sell Stock](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220226_121_BestTimetoBuyandSellStock_Easy.py)
 * [1048. Longest String Chain](https://github.com/HYEEWON/practice_for_coding_test/blob/master/leetcode/210116_1048_LongestStringChain_medium.py)
