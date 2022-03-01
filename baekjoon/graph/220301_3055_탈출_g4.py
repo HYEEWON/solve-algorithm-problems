@@ -59,14 +59,10 @@ def bfs(sy, sx):
             return cnt
         if forest[sy][sx] == '*':
             continue
-        print(sy, sx, cnt)
 
         t -= 1
         if t <= 0:
             water_bfs()
-            for i in range(R):
-                print(forest[i], visit[i])
-            print()
             t, tmp = tmp, 0
 
         for i in range(4):
@@ -77,16 +73,11 @@ def bfs(sy, sx):
                 continue
             if forest[ny][nx] not in ['X', '*'] and not visit[ny][nx]:
                 visit[ny][nx] = True
-                print('q: ', ny,nx,cnt)
+
                 q.append((ny, nx, cnt+1))
                 tmp += 1
-        for i in range(R):
-            print(forest[i], visit[i])
-        print()
 
     return 'KAKTUS'
 
-
-# 물 이동 -> 고슴도치 이동
 
 sys.stdout.write(str(bfs(sy, sx)))
