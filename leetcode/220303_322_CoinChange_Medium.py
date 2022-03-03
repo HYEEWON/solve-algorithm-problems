@@ -1,8 +1,5 @@
 # DP
 # coins 동전으로 amount의 금액을 만드는데 필요한 최소 동전 수
-''' 점화식
-    dp[money] = min(dp[money], dp[money-coins[i]]+1)
-'''
 
 import sys
 
