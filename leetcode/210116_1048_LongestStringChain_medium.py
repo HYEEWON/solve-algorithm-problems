@@ -21,3 +21,4 @@ def longestChain(words):
     return max(list(d.values()))
 
 if __name__ == '__main__':
+    pass
