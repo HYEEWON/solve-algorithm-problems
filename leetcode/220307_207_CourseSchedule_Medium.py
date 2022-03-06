@@ -10,7 +10,7 @@ class Solution:
         indegree = [0 for i in range(numCourses)]
         graph = defaultdict(list)
         q = deque()
-        cnt = 0
+        cnt = 0 # 방문한 노드 수
 
         for p in prerequisites:
             graph[p[1]].append(p[0])
@@ -27,7 +27,7 @@ class Solution:
                 indegree[node] -= 1
                 if indegree[node] == 0:
                     q.append(node)
-
+        
         if cnt != numCourses:
             return False
         else:
