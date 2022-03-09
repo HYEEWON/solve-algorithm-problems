@@ -15,3 +15,11 @@ class Solution:
 
     def maxDepth(self, root: Optional[TreeNode]) -> int:
         return self.dfs(root, 0)
+
+
+    # 다른 풀이
+    # https://leetcode.com/problems/maximum-depth-of-binary-tree/discuss/139585/Explanations-in-Python
+    def maxDepth2(self, root):
+        if root is None:
+            return 0
+        return max(self.maxDepth(root.left), self.maxDepth(root.right)) + 1
