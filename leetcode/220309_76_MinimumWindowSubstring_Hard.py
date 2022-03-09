@@ -1,4 +1,4 @@
-# String, Sliding Window, Hash, Table, Two Pointer
+# String, Sliding Window, Hash Table, Two Pointer
 
 # Sliding Window -> 2 pointer: 조건에 맞지 않으면 end pointer 이동, 조건이 맞으면 start pointer 이동
 
