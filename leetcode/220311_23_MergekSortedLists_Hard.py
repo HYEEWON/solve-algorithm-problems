@@ -8,11 +8,9 @@ class ListNode:
         self.val = val
         self.next = next
 
-    def __str__(self):
-        return "listnode(" + str(self.val) + ", "+ str(self.next) + ")"
 
 class Solution:
-    def mergeKLists(self, lists):
+    def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
         heap = []
         answer = pointer = ListNode()
 
@@ -29,3 +27,31 @@ class Solution:
             if node.next:
                 heapq.heappush(heap, (node.next.val, idx, node.next))
         return answer.next
+
+    def mergeKLists2(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        heap = []
+        answer = pointer = ListNode()
+        cnt_none = 0
+
+        for i in range(len(lists)):
+            if not lists[i] or lists[i] == []:
+                continue
+            heapq.heappush(heap, (lists[i].val, i, lists[i]))
+
+        if not heap:
+            return None
+        len_heap = len(heap)
+
+        while heap:
+            idx, node = heapq.heappop(heap)[1:]
+            if node.next == None:
+                cnt_none += 1
+
+            pointer.val = node.val
+            if cnt_none < len_heap:
+                pointer.next = ListNode()
+                pointer = pointer.next
+
+            if node.next:
+                heapq.heappush(heap, (node.next.val, idx, node.next))
+        return answer
