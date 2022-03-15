@@ -6,9 +6,6 @@ class ListNode:
          self.val = val
          self.next = next
 
-# Input
-# ListNode{val: 1, next: ListNode{val: 2, next:
-# ListNode{val: 3, next: ListNode{val: 4, next: ListNode{val: 5, next: None}}}}}
 class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         if not head:
