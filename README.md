@@ -319,11 +319,27 @@
 
 * [1. Two Sum](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220222_1_TwoSum_Easy.py)
 * [3. Longest Substring Without Repeating Characters](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220223_3_LongestSubstringWithoutRepeatingCharacters_Medium.py) *
+* [23. Merge k Sorted Lists](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220311_23_MergekSortedLists_Hard.py)
+* [33. Search in Rotated Sorted Array](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220315_33_SearchinRotatedSortedArray_Medium.py) *
+* [53. Maximum Subarray](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220310_53_MaximumSubarray_Easy.py)
+* [57. Insert Interval](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220307_57_InsertInterval_Medium.py)
 * [70. Climbing Stairs](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220303_70_ClimbingStairs_Easy.py)
+* [76. Minimum Window Substring](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220309_76_MinimumWindowSubstring_Hard.py)
+* [100. Same Tree](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220310_100_SameTree_Easy.py)
+* [104. Maximum Depth of Binary Tree](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220309_104_MaximumDepthofBinaryTree_Easy.py)
+* [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220308_105_ConstructBinaryTreefromPreorderandInorderTraversal_Medium.py) *
 * [121. Best Time to Buy and Sell Stock](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220226_121_BestTimetoBuyandSellStock_Easy.py)
 * [133. Clone Graph](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220227_133_CloneGraph_Medium.py) *
 * [153. Find Minimum in Rotated Sorted Array](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220301_153_FindMinimuminRotatedSortedArray_Medium.py)
+* [191. Number of 1Bits](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220315_191_Numberof1Bits_Easy.py)
+* [200. Number of Islands](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220307_200_NumberofIslands_Medium.py)
+* [206. Reverse Linked List](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220307_206_ReverseLinkedList_Easy.py)
+* [207. Course Schedule](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220307_207_CourseSchedule_Medium.py)
+* [217. Contains Duplicate](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220306_217_ContainsDuplicate_Easy.py)
+* [242. Valid Anagram](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220312_242_ValidAnagram_Easy.py)
+* [300. Longest Increasing Subsequence](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220313_300_LongestIncreasingSubsequence_Medium.py)
 * [322. Coin Change](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220303_322_CoinChange_Medium.py)
+* [347. Top K Frequent Elements](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220313_347_TopKFrequentElements_Medium.py)
 * [371. Sum of Two Integers](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220227_371_SumofTwoIntegers_Medium.py) *
-* [424. Longest Repeating Character Replacement](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220303_424_LongestRepeatingCharacterReplacement_Medium.py)
+* [424. Longest Repeating Character Replacement](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220303_424_LongestRepeatingCharacterReplacement_Medium.py) *
 * [1048. Longest String Chain](https://github.com/HYEEWON/practice_for_coding_test/blob/master/leetcode/210116_1048_LongestStringChain_medium.py)
