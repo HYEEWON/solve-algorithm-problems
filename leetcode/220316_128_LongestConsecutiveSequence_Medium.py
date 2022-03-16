@@ -1,10 +1,16 @@
-m = [[1,2,3],[4,5,6],[7,8,9]]
+class Solution:
+    def longestConsecutive(self, nums: List[int]) -> int:
+        if not nums:
+            return 0
+        max_cnt, cnt = 1, 1
+        nums.sort()
 
-print([*zip(*m)])
-print([*zip(*m)][::-1])
-
-4 7
-5 8
-6 9
-
-6 9  4 7  5 8
+        last = nums[0]
+        for i in range(1, len(nums)):
+            if last + 1 == nums[i]:
+                cnt += 1
+                last = nums[i]
+            elif last != nums[i]:
+                cnt, last = 1, nums[i]
+            max_cnt = max(max_cnt, cnt)
+        return max_cnt
