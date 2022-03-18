@@ -5,7 +5,7 @@
 ## ⭐ 문제 풀이 제한 시간
 * BOJ(solved.ac) : Bronze - 20분, Silver - 40분, Gold - 60분
 * Programmers : L1 - 20분, L2 - 40분, L3 - 60분
-* LeetCode : Easy - 30분, Medium - 50분
+* LeetCode : Easy - 40분, Medium - 60분
 
 
 ## ⭐ 표시 방법
@@ -319,9 +319,11 @@
 
 * [1. Two Sum](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220222_1_TwoSum_Easy.py)
 * [3. Longest Substring Without Repeating Characters](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220223_3_LongestSubstringWithoutRepeatingCharacters_Medium.py) *
+* [20. Valid Parentheses](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220316_20_ValidParentheses_Easy.py)
 * [23. Merge k Sorted Lists](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220311_23_MergekSortedLists_Hard.py)
 * [33. Search in Rotated Sorted Array](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220315_33_SearchinRotatedSortedArray_Medium.py) *
 * [53. Maximum Subarray](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220310_53_MaximumSubarray_Easy.py)
+* [54. Spiral Matrix](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220316_54_SpiralMatrix_Medium.py)
 * [57. Insert Interval](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220307_57_InsertInterval_Medium.py)
 * [70. Climbing Stairs](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220303_70_ClimbingStairs_Easy.py)
 * [76. Minimum Window Substring](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220309_76_MinimumWindowSubstring_Hard.py)
@@ -329,6 +331,7 @@
 * [104. Maximum Depth of Binary Tree](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220309_104_MaximumDepthofBinaryTree_Easy.py)
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220308_105_ConstructBinaryTreefromPreorderandInorderTraversal_Medium.py) *
 * [121. Best Time to Buy and Sell Stock](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220226_121_BestTimetoBuyandSellStock_Easy.py)
+* [128. Longest Consecutive Sequence](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220316_128_LongestConsecutiveSequence_Medium.py)
 * [133. Clone Graph](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220227_133_CloneGraph_Medium.py) *
 * [153. Find Minimum in Rotated Sorted Array](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220301_153_FindMinimuminRotatedSortedArray_Medium.py)
 * [191. Number of 1Bits](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220315_191_Numberof1Bits_Easy.py)
