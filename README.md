@@ -324,6 +324,7 @@
 * [33. Search in Rotated Sorted Array](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220315_33_SearchinRotatedSortedArray_Medium.py) *
 * [53. Maximum Subarray](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220310_53_MaximumSubarray_Easy.py)
 * [54. Spiral Matrix](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220316_54_SpiralMatrix_Medium.py)
+* [56. Merge Intervals](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220318_56_MergeIntervals_Medium.py) *
 * [57. Insert Interval](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220307_57_InsertInterval_Medium.py)
 * [70. Climbing Stairs](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220303_70_ClimbingStairs_Easy.py)
 * [76. Minimum Window Substring](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220309_76_MinimumWindowSubstring_Hard.py)
@@ -340,6 +341,7 @@
 * [207. Course Schedule](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220307_207_CourseSchedule_Medium.py)
 * [217. Contains Duplicate](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220306_217_ContainsDuplicate_Easy.py)
 * [242. Valid Anagram](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220312_242_ValidAnagram_Easy.py)
+* [289. Game of Life](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220318_289_GameofLife_Medium.py)
 * [300. Longest Increasing Subsequence](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220313_300_LongestIncreasingSubsequence_Medium.py)
 * [322. Coin Change](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220303_322_CoinChange_Medium.py)
 * [347. Top K Frequent Elements](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220313_347_TopKFrequentElements_Medium.py)
