@@ -340,11 +340,14 @@
 * [206. Reverse Linked List](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220307_206_ReverseLinkedList_Easy.py)
 * [207. Course Schedule](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220307_207_CourseSchedule_Medium.py)
 * [217. Contains Duplicate](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220306_217_ContainsDuplicate_Easy.py)
+* [230. Kth Smallest Element in a BST](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220322_230_KthSmallestElementinaBST_Medium.py)
 * [242. Valid Anagram](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220312_242_ValidAnagram_Easy.py)
 * [289. Game of Life](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220318_289_GameofLife_Medium.py)
+* [295. Find Median from Data Stream](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220322_295_FindMedianfromDataStream_Hard.py)
 * [300. Longest Increasing Subsequence](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220313_300_LongestIncreasingSubsequence_Medium.py)
 * [322. Coin Change](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220303_322_CoinChange_Medium.py)
 * [347. Top K Frequent Elements](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220313_347_TopKFrequentElements_Medium.py)
 * [371. Sum of Two Integers](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220227_371_SumofTwoIntegers_Medium.py) *
 * [424. Longest Repeating Character Replacement](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220303_424_LongestRepeatingCharacterReplacement_Medium.py) *
+* [498. Diagonal Traverse](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220321_498_DiagonalTraverse_Medium.py) *
 * [1048. Longest String Chain](https://github.com/HYEEWON/practice_for_coding_test/blob/master/leetcode/210116_1048_LongestStringChain_medium.py)
