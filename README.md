@@ -326,12 +326,14 @@
 * [54. Spiral Matrix](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220316_54_SpiralMatrix_Medium.py)
 * [56. Merge Intervals](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220318_56_MergeIntervals_Medium.py) *
 * [57. Insert Interval](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220307_57_InsertInterval_Medium.py)
+* [68. Text Justification](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220324_68_TextJustification_Hard.py)
 * [70. Climbing Stairs](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220303_70_ClimbingStairs_Easy.py)
 * [76. Minimum Window Substring](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220309_76_MinimumWindowSubstring_Hard.py)
 * [100. Same Tree](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220310_100_SameTree_Easy.py)
 * [104. Maximum Depth of Binary Tree](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220309_104_MaximumDepthofBinaryTree_Easy.py)
 * [105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220308_105_ConstructBinaryTreefromPreorderandInorderTraversal_Medium.py) *
 * [121. Best Time to Buy and Sell Stock](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220226_121_BestTimetoBuyandSellStock_Easy.py)
+* [125. Valid Palindrome](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220323_125_ValidPalindrome_Easy.py)
 * [128. Longest Consecutive Sequence](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220316_128_LongestConsecutiveSequence_Medium.py)
 * [133. Clone Graph](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220227_133_CloneGraph_Medium.py) *
 * [153. Find Minimum in Rotated Sorted Array](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220301_153_FindMinimuminRotatedSortedArray_Medium.py)
@@ -340,6 +342,7 @@
 * [206. Reverse Linked List](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220307_206_ReverseLinkedList_Easy.py)
 * [207. Course Schedule](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220307_207_CourseSchedule_Medium.py)
 * [217. Contains Duplicate](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220306_217_ContainsDuplicate_Easy.py)
+* [219. Contains Duplicate II](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220324_219_ContainsDuplicateII_Easy.py)
 * [230. Kth Smallest Element in a BST](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220322_230_KthSmallestElementinaBST_Medium.py)
 * [242. Valid Anagram](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220312_242_ValidAnagram_Easy.py)
 * [289. Game of Life](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220318_289_GameofLife_Medium.py)
