@@ -19,8 +19,6 @@ class Solution:
     def splitArray(self, nums, m):
         low, high = max(nums), sum(nums)
         answer = sys.maxsize
-        if m == 1:
-            return high
 
         while low <= high:
             mid = (low + high) // 2
