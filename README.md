@@ -327,14 +327,18 @@
 * [20. Valid Parentheses](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220316_20_ValidParentheses_Easy.py)
 * [23. Merge k Sorted Lists](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220311_23_MergekSortedLists_Hard.py)
 * [33. Search in Rotated Sorted Array](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220315_33_SearchinRotatedSortedArray_Medium.py) *
+* [38. Count and Say](./leetcode/220414_38_CountandSay_Medium.py)
+* [48. Rotate Image](./leetcode/220413_48_RotateImage_Medium.py) **
 * [53. Maximum Subarray](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220310_53_MaximumSubarray_Easy.py)
 * [54. Spiral Matrix](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220316_54_SpiralMatrix_Medium.py)
 * [56. Merge Intervals](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220318_56_MergeIntervals_Medium.py) *
 * [57. Insert Interval](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220307_57_InsertInterval_Medium.py)
 * [68. Text Justification](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220324_68_TextJustification_Hard.py)
 * [70. Climbing Stairs](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220303_70_ClimbingStairs_Easy.py)
+* [71. Simplify Path](./leetcode/220412_71_SimplifyPath_Medium.py)
 * [74. Search a 2D Matrix](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220330_74_Searcha2DMatrix_Medium.py)
 * [76. Minimum Window Substring](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220309_76_MinimumWindowSubstring_Hard.py)
+* [79. Word Search](./leetcode/220418_79_WordSearch_Medium.py)
 * [96. Unique Binary Search Trees](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220409_96_UniqueBinarySearchTrees_Medium.py)
 * [100. Same Tree](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220310_100_SameTree_Easy.py)
 * [104. Maximum Depth of Binary Tree](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220309_104_MaximumDepthofBinaryTree_Easy.py)
@@ -362,5 +366,7 @@
 * [410. Split Array Largest Sum](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220407_410_SplitArrayLargestSum_Hard.py) *
 * [424. Longest Repeating Character Replacement](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220303_424_LongestRepeatingCharacterReplacement_Medium.py) *
 * [498. Diagonal Traverse](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220321_498_DiagonalTraverse_Medium.py) *
+* [621. Task Scheduler](./leetcode/220415_621_TaskScheduler_Medium.py) **
 * [1048. Longest String Chain](https://github.com/HYEEWON/practice_for_coding_test/blob/master/leetcode/210116_1048_LongestStringChain_medium.py)
 * [2043. Simple Bank System](https://github.com/HYEEWON/practice-for-coding-test/blob/main/leetcode/220408_2043_SimpleBankSystem_Medium.py)
+
