@@ -9,7 +9,7 @@ class Solution:
         # list[s::n]: s 인덱스부터 n 간격으로 배열 탐색
         # list[::-1]: 리스트를 역순으로 뒤집음
         # *: 가장 바깥의 [], ()를 벗김
-        
+
         return matrix
 
     # 참고 링크
@@ -26,6 +26,8 @@ class Solution:
 
         for i in range(len(matrix)):
             matrix[i].reverse()
+
+        return matrix
 
 # 배열 슬라이스 참고
 # https://dojang.io/mod/page/view.php?id=2208
