@@ -19,16 +19,21 @@
 # 🌈 Leet Code
 
 * [1. Two Sum](./leetcode/220222_1_TwoSum_Easy.py)
+* [2. Add Two Numbers](./leetcode/220421_2_AddTwoNumbers_Medium.py)
 * [3. Longest Substring Without Repeating Characters](./leetcode/220223_3_LongestSubstringWithoutRepeatingCharacters_Medium.py) *
 * [6. Zigzag Conversion](./leetcode/220408_6_ZigzagConversion_Medium.py) **
+* [9. Palindrome Number](./leetcode/220425_9_PalindromeNumber_Easy.py)
 * [10. Regular Expression Matching](./leetcode/220327_10_RegularExpressionMatching_Hard.py) **
 * [11. Container With Most Water](./leetcode/220328_11_ContainerWithMostWater_Medium.py) *
+* [14. Longest Common Prefix](./leetcode/220423_14_LongestCommonPrefix_Easy.py)
 * [15. 3Sum](./leetcode/220407_15_3Sum_Medium.py) *
 * [16. 3Sum Closest](./leetcode/220410_16_3SumClosest_Medium.py)
+* [17. Letter Combinations of a Phone Number](./leetcode/220425_17_LetterCombinationsofaPhoneNumber_Medium.py)
 * [20. Valid Parentheses](./leetcode/220316_20_ValidParentheses_Easy.py)
 * [23. Merge k Sorted Lists](./leetcode/220311_23_MergekSortedLists_Hard.py)
 * [33. Search in Rotated Sorted Array](./leetcode/220315_33_SearchinRotatedSortedArray_Medium.py) *
 * [38. Count and Say](./leetcode/220414_38_CountandSay_Medium.py)
+* [42. TrappingRainWater](./leetcode/220422_42_TrappingRainWater_Hard.py) *
 * [48. Rotate Image](./leetcode/220413_48_RotateImage_Medium.py) **
 * [53. Maximum Subarray](./leetcode/220310_53_MaximumSubarray_Easy.py)
 * [54. Spiral Matrix](./leetcode/220316_54_SpiralMatrix_Medium.py)
@@ -69,6 +74,7 @@
 * [498. Diagonal Traverse](./leetcode/220321_498_DiagonalTraverse_Medium.py) *
 * [621. Task Scheduler](./leetcode/220415_621_TaskScheduler_Medium.py) **
 * [1048. Longest String Chain](./leetcode/210116_1048_LongestStringChain_medium.py)
+* [1953. Maximum Number of Weeks for Which You Can Work](./leetcode/220420_1953_MaximumNumberofWeeksforWhichYouCanWork_Medium.py) *
 * [2043. Simple Bank System](./leetcode/220408_2043_SimpleBankSystem_Medium.py)
 
 <br>
