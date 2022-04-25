@@ -1,3 +1,5 @@
+# Hash Table, String, Backtracking
+
 class Solution:
     def __init__(self):
         self.numbers = {2: ['a', 'b', 'c'], 3: ['d', 'e', 'f'], 4: ['g', 'h', 'i'],
