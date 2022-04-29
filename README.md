@@ -81,7 +81,7 @@
 
 <br>
 
-# 🌈 Leet Code
+# 🌈 Softeer
 
 * [21년 재직자 대회 예선: 회의실 예약](./softeer/220428_21%EB%85%84%EC%9E%AC%EC%A7%81%EC%9E%90%EB%8C%80%ED%9A%8C%EC%98%88%EC%84%A0_%ED%9A%8C%EC%9D%98%EC%8B%A4%EC%98%88%EC%95%BD_star2.py)
 * [인증평가 3차 기출: 교차로](./softeer/220429_%EC%9D%B8%EC%A6%9D%ED%8F%89%EA%B0%803%EC%B0%A8%EA%B8%B0%EC%B6%9C_%EA%B5%90%EC%B0%A8%EB%A1%9C_star3.py)
