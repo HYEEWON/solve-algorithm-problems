@@ -21,6 +21,7 @@
 * [1. Two Sum](./leetcode/220222_1_TwoSum_Easy.py)
 * [2. Add Two Numbers](./leetcode/220421_2_AddTwoNumbers_Medium.py)
 * [3. Longest Substring Without Repeating Characters](./leetcode/220223_3_LongestSubstringWithoutRepeatingCharacters_Medium.py) *
+* [5. Longest Palindromic Substring](./leetcode/220427_5_LongestPalindromicSubstring_Medium.py) *
 * [6. Zigzag Conversion](./leetcode/220408_6_ZigzagConversion_Medium.py) **
 * [9. Palindrome Number](./leetcode/220425_9_PalindromeNumber_Easy.py)
 * [10. Regular Expression Matching](./leetcode/220327_10_RegularExpressionMatching_Hard.py) **
@@ -39,6 +40,7 @@
 * [54. Spiral Matrix](./leetcode/220316_54_SpiralMatrix_Medium.py)
 * [56. Merge Intervals](./leetcode/220318_56_MergeIntervals_Medium.py) *
 * [57. Insert Interval](./leetcode/220307_57_InsertInterval_Medium.py)
+* [65. Valid Number](./leetcode/220426_65_ValidNumber_Hard.py) *
 * [68. Text Justification](./leetcode/220324_68_TextJustification_Hard.py)
 * [70. Climbing Stairs](./leetcode/220303_70_ClimbingStairs_Easy.py)
 * [71. Simplify Path](./leetcode/220412_71_SimplifyPath_Medium.py)
@@ -76,6 +78,13 @@
 * [1048. Longest String Chain](./leetcode/210116_1048_LongestStringChain_medium.py)
 * [1953. Maximum Number of Weeks for Which You Can Work](./leetcode/220420_1953_MaximumNumberofWeeksforWhichYouCanWork_Medium.py) *
 * [2043. Simple Bank System](./leetcode/220408_2043_SimpleBankSystem_Medium.py)
+
+<br>
+
+# 🌈 Leet Code
+
+* [21년 재직자 대회 예선: 회의실 예약](./softeer/220428_21%EB%85%84%EC%9E%AC%EC%A7%81%EC%9E%90%EB%8C%80%ED%9A%8C%EC%98%88%EC%84%A0_%ED%9A%8C%EC%9D%98%EC%8B%A4%EC%98%88%EC%95%BD_star2.py)
+* [인증평가 3차 기출: 교차로](./softeer/220429_%EC%9D%B8%EC%A6%9D%ED%8F%89%EA%B0%803%EC%B0%A8%EA%B8%B0%EC%B6%9C_%EA%B5%90%EC%B0%A8%EB%A1%9C_star3.py)
 
 <br>
 
