@@ -208,13 +208,6 @@
 
 <br>
 
-# 🌈 Softeer
-
-* [21년 재직자 대회 예선: 회의실 예약](./softeer/220428_21%EB%85%84%EC%9E%AC%EC%A7%81%EC%9E%90%EB%8C%80%ED%9A%8C%EC%98%88%EC%84%A0_%ED%9A%8C%EC%9D%98%EC%8B%A4%EC%98%88%EC%95%BD_star2.py)
-* [인증평가 3차 기출: 교차로](./softeer/220429_%EC%9D%B8%EC%A6%9D%ED%8F%89%EA%B0%803%EC%B0%A8%EA%B8%B0%EC%B6%9C_%EA%B5%90%EC%B0%A8%EB%A1%9C_star3.py)
-
-<br>
-
 # 🌈 Baekjoon
 
 ## Backtracking
@@ -400,3 +393,22 @@
 * [1806. 부분합](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/two-pointer/210126_1806_%EB%B6%80%EB%B6%84%ED%95%A9_g4.py)
 * [2003. 수들의 합2](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/two-pointer/210126_2003_%EC%88%98%EB%93%A4%EC%9D%98%ED%95%A92_s3.py) *
 * [2143. 두 배열의 합](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/two-pointer/210126_2143_%EB%91%90%EB%B0%B0%EC%97%B4%EC%9D%98%ED%95%A9_g3.java) 
+
+<br>
+
+# 🌈 Softeer
+
+* [21년 재직자 대회 예선: 회의실 예약](./softeer/220428_21%EB%85%84%EC%9E%AC%EC%A7%81%EC%9E%90%EB%8C%80%ED%9A%8C%EC%98%88%EC%84%A0_%ED%9A%8C%EC%9D%98%EC%8B%A4%EC%98%88%EC%95%BD_star2.py)
+* [인증평가 3차 기출: 교차로](./softeer/220429_%EC%9D%B8%EC%A6%9D%ED%8F%89%EA%B0%803%EC%B0%A8%EA%B8%B0%EC%B6%9C_%EA%B5%90%EC%B0%A8%EB%A1%9C_star3.py)
+
+<br>
+
+# 🌈 SW Expert Academy
+
+* [View](./swea/200828_1206_view_D3.py)
+* [등산로 조정](./swea/200923_1949_%EB%93%B1%EC%82%B0%EB%A1%9C%EC%A1%B0%EC%A0%95_%EB%AA%A8%EC%9D%98SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8.py)
+* [백만장자 프로젝트](./swea/201010_1859_%EB%B0%B1%EB%A7%8C%EC%9E%A5%EC%9E%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_D2.py)
+* [벽돌깨기](./swea/201007_5656_%EB%B2%BD%EB%8F%8C%EA%B9%A8%EA%B8%B0_%EB%AA%A8%EC%9D%98SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8.py)
+* [보급로](./swea/200907_1249_%EB%B3%B4%EA%B8%89%EB%A1%9C_D4.py)
+* [보호필름](./swea/200927_2112_%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84_%EB%AA%A8%EC%9D%98SW%EC%97%AD%EB%9F%89%ED%85%8C%EC%8A%A4%ED%8A%B8.py)
+* [프로세서 연결하기](./swea/200908_1767_%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0_SWTEST%EC%83%98%ED%94%8C%EB%AC%B8%EC%A0%9C.py)
