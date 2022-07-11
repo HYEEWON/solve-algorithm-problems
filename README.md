@@ -198,6 +198,12 @@
 
 ## 2018 Kakao Recruitment
 * [[1차] 추석 트래픽](./programmers/2018_kakao/220702_%5B1%EC%B0%A8%5D%EC%B6%94%EC%84%9D%ED%8A%B8%EB%9E%98%ED%94%BD_L3.py)
+* [[1차] 뉴스 클러스터링](./programmers/2018_kakao/220704_%5B1%EC%B0%A8%5D%EB%89%B4%EC%8A%A4%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81_L2.py)
+* [[1차] 셔틀버스](./programmers/2018_kakao/220706_%5B1%EC%B0%A8%5D%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4_L3.py)
+* [[1차] 프렌즈4블록](./programmers/2018_kakao/220708_%5B1%EC%B0%A8%5D%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D_L2.py)
+* [[1차] 캐시](./programmers/2018_kakao/220711_%5B1%EC%B0%A8%5D%EC%BA%90%EC%8B%9C_L2.py)
+* [[1차] 비밀지도](./programmers/2018_kakao/220707_%5B1%EC%B0%A8%5D%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84_L1.py)
+* [[1차] 다트 게임](./programmers/2018_kakao/220710_%5B1%EC%B0%A8%5D%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84_L1.py)
 
 ## Weekly Challange
 * [1주차: 부족한 금액 계산하기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210901_1%EC%A3%BC%EC%B0%A8_%EB%B6%80%EC%A1%B1%ED%95%9C%EA%B8%88%EC%95%A1%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0_L2.py)
