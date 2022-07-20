@@ -1,4 +1,4 @@
-# 🍀 Practice for Coding Test 🍀
+# 🍀 Solve Algorithm problems 🍀
 * 파이썬과 자바를 이용한 코딩 테스트 문제 풀이
 
 
@@ -204,6 +204,10 @@
 * [[1차] 캐시](./programmers/2018_kakao/220711_%5B1%EC%B0%A8%5D%EC%BA%90%EC%8B%9C_L2.py)
 * [[1차] 비밀지도](./programmers/2018_kakao/220707_%5B1%EC%B0%A8%5D%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84_L1.py)
 * [[1차] 다트 게임](./programmers/2018_kakao/220710_%5B1%EC%B0%A8%5D%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84_L1.py)
+* [[1차] 캐시](./programmers/2018_kakao/220711_%5B1%EC%B0%A8%5D%EC%BA%90%EC%8B%9C_L2.py)
+* [[1차] 방금 그 곡](./programmers/2018_kakao/220714_%5B3%EC%B0%A8%5D%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1_L2.py)
+* [[3차] 압축](./programmers/2018_kakao/220718_%5B3%EC%B0%A8%5D%EC%95%95%EC%B6%95_L2.py)
+* [[3차] 자동완성](./programmers/2018_kakao/220719_%5B3%EC%B0%A8%5D%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1_L4.py) *
 
 ## Weekly Challange
 * [1주차: 부족한 금액 계산하기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/weekly_challange/210901_1%EC%A3%BC%EC%B0%A8_%EB%B6%80%EC%A1%B1%ED%95%9C%EA%B8%88%EC%95%A1%EA%B3%84%EC%82%B0%ED%95%98%EA%B8%B0_L2.py)
@@ -306,6 +310,7 @@
 * [3176. 도로 네트워크](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210201_3176_%EB%8F%84%EB%A1%9C%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_p4.java) *
 * [3830. 교수님은 기다리지 않는다](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210201_3830_%EA%B5%90%EC%88%98%EB%8B%98%EC%9D%80%EA%B8%B0%EB%8B%A4%EB%A6%AC%EC%A7%80%EC%95%8A%EB%8A%94%EB%8B%A4_p4.java) **
 * [3860. 할로윈 묘지](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210203_3860_%ED%95%A0%EB%A1%9C%EC%9C%88%EB%AC%98%EC%A7%80_p5.java) ***
+* [5547. 일루미네이션](./baekjoon/graph/220718_5547_%EC%9D%BC%EB%A3%A8%EB%AF%B8%EB%84%A4%EC%9D%B4%EC%85%98_g5.py)
 * [5719. 거의 최단 경로(java)](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/graph/210202_5719_%EA%B1%B0%EC%9D%98%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C_p5.java) *
 * [5719. 거의 최단 경로(python)](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/graph/210923_5719_%EA%B1%B0%EC%9D%98%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C_p5.py) *
 * [10026. 적록색약](https://github.com/HYEEWON/practice_for_coding_test/blob/main/baekjoon/graph/210328_10026_%EC%A0%81%EB%A1%9D%EC%83%89%EC%95%BD_g5.py)
