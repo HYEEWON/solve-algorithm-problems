@@ -1,3 +1,6 @@
+# backtracking, bfs, combination 모두 가능
+# 모든 경우의 수를 다 해봐야 함
+
 from copy import deepcopy
 
 answer = [-1]
