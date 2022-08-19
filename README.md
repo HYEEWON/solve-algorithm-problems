@@ -136,7 +136,9 @@
 * [k진수에서 소수 개수 구하기](./programmers/2022_kakao/220530_k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%EC%86%8C%EC%88%98%EA%B0%9C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0_L2.py)
 * [주차요금계산](./programmers/2022_kakao/220521_%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88%EA%B3%84%EC%82%B0_L3.py)
 * [양궁대회](./programmers/2022_kakao/220512_%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C_L2.py) *
+* [양궁대회 (RE)](./programmers/2022_kakao/220817_%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C_L2.py)
 * [양과 늑대](./programmers/2022_kakao/220513_%EC%96%91%EA%B3%BC%EB%8A%91%EB%8C%80_L3.py) *
+* [양과 늑대 (RE)](./programmers/2022_kakao/220819_%EC%96%91%EA%B3%BC%EB%8A%91%EB%8C%80_L3.py) *
 * [파괴되지않은건물](./programmers/2022_kakao/220520_%ED%8C%8C%EA%B4%B4%EB%90%98%EC%A7%80%EC%95%8A%EC%9D%80%EA%B1%B4%EB%AC%BC_L3.py) * 
 
 
@@ -229,6 +231,13 @@
 
 ## 🌈 Baekjoon
 
+### Total
+* [13251. 조약돌 꺼내기 (java)](./baekjoon/1/210129_13251_%EC%A1%B0%EC%95%BD%EB%8F%8C%EA%BA%BC%EB%82%B4%EA%B8%B0_s3.java) *
+* [13251. 조약돌 꺼내기 (RE)](./baekjoon/1/210129_13251_%EC%A1%B0%EC%95%BD%EB%8F%8C%EA%BA%BC%EB%82%B4%EA%B8%B0_s3.java)
+* [19621. 회의실 배정2](./baekjoon/1/220725_19621_%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%952_s3.py)
+* [19622. 회의실 배정3](./baekjoon/2/220726_19622_%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%953_s2.py)
+* [19623. 회의실 배정4](./baekjoon/3/220801_19623_%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%954_g3.py) *
+
 ### Backtracking
 * [1759. 암호만들기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/backtracking/210125_1759_%EC%95%94%ED%98%B8%EB%A7%8C%EB%93%A4%EA%B8%B0_g5.py)
 * [1987. 알파벳](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/backtracking/210208_1987_%EC%95%8C%ED%8C%8C%EB%B2%B3_g4.py)
@@ -247,7 +256,6 @@
 ### Combinatorics
 * [11050. 이항계수1](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/combinatorics/210129_11050_%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%981_b1.py)
 * [11051. 이항계수2](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/combinatorics/210129_11051_%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%982_s1.java)
-* [13251. 조약돌 꺼내기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/combinatorics/210129_13251_%EC%A1%B0%EC%95%BD%EB%8F%8C%EA%BA%BC%EB%82%B4%EA%B8%B0_s4.java) *
 * [15663. N과 M(9)](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/combinatorics/210129_15663_N%EA%B3%BCM(9)_s2.java)
 * [15664. N과 M(10)](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/combinatorics/210129_15664_N%EA%B3%BCM(10)_s2.java)
 
