@@ -238,7 +238,7 @@
 * [11050. 이항계수1](./baekjoon/0/210129_11050_%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%981_b1.py)
 * [11051. 이항계수2 (java)](./baekjoon/1/210129_11051_%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%982_s1.java)
 * [13251. 조약돌 꺼내기 (java)](./baekjoon/1/210129_13251_%EC%A1%B0%EC%95%BD%EB%8F%8C%EA%BA%BC%EB%82%B4%EA%B8%B0_s3.java) *
-* [13251. 조약돌 꺼내기 (re)](./baekjoon/1/210129_13251_%EC%A1%B0%EC%95%BD%EB%8F%8C%EA%BA%BC%EB%82%B4%EA%B8%B0_s3.java)
+* [13251. 조약돌 꺼내기 (re)](./baekjoon/1/220819_13251_%EC%A1%B0%EC%95%BD%EB%8F%8C%EA%BA%BC%EB%82%B4%EA%B8%B0_s3.py)
 * [15663. N과 M(9) (java)](./baekjoon/3/210129_15663_N%EA%B3%BCM(9)_s2.java)
 * [15664. N과 M(10) (java)](./baekjoon/4/210129_15664_N%EA%B3%BCM(10)_s2.java)
 * [16197. 두 동전](./baekjoon/7/210123_16197_%EB%91%90%EB%8F%99%EC%A0%84_g4.py) *
