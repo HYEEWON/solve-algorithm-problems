@@ -232,17 +232,20 @@
 ## 🌈 Baekjoon
 
 ### Total
+* [1759. 암호만들기](./baekjoon/9/210125_1759_%EC%95%94%ED%98%B8%EB%A7%8C%EB%93%A4%EA%B8%B0_g5.py)
+* [1987. 알파벳](./baekjoon/7/210208_1987_%EC%95%8C%ED%8C%8C%EB%B2%B3_g4.py)
+* [9663. N Queen](./baekjoon/3/210125_9663_NQueen_g5.py)
+* [11050. 이항계수1](./baekjoon/0/210129_11050_%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%981_b1.py)
+* [11051. 이항계수2 (java)](./baekjoon/1/210129_11051_%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%982_s1.java)
 * [13251. 조약돌 꺼내기 (java)](./baekjoon/1/210129_13251_%EC%A1%B0%EC%95%BD%EB%8F%8C%EA%BA%BC%EB%82%B4%EA%B8%B0_s3.java) *
-* [13251. 조약돌 꺼내기 (RE)](./baekjoon/1/210129_13251_%EC%A1%B0%EC%95%BD%EB%8F%8C%EA%BA%BC%EB%82%B4%EA%B8%B0_s3.java)
+* [13251. 조약돌 꺼내기 (re)](./baekjoon/1/210129_13251_%EC%A1%B0%EC%95%BD%EB%8F%8C%EA%BA%BC%EB%82%B4%EA%B8%B0_s3.java)
+* [15663. N과 M(9) (java)](./baekjoon/3/210129_15663_N%EA%B3%BCM(9)_s2.java)
+* [15664. N과 M(10) (java)](./baekjoon/4/210129_15664_N%EA%B3%BCM(10)_s2.java)
+* [16197. 두 동전](./baekjoon/7/210123_16197_%EB%91%90%EB%8F%99%EC%A0%84_g4.py) *
+* [16197. 두 동전 (re)](./baekjoon/7/220906_16197_%EB%91%90%EB%8F%99%EC%A0%84_g4.py)
 * [19621. 회의실 배정2](./baekjoon/1/220725_19621_%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%952_s3.py)
 * [19622. 회의실 배정3](./baekjoon/2/220726_19622_%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%953_s2.py)
 * [19623. 회의실 배정4](./baekjoon/3/220801_19623_%ED%9A%8C%EC%9D%98%EC%8B%A4%EB%B0%B0%EC%A0%954_g3.py) *
-
-### Backtracking
-* [1759. 암호만들기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/backtracking/210125_1759_%EC%95%94%ED%98%B8%EB%A7%8C%EB%93%A4%EA%B8%B0_g5.py)
-* [1987. 알파벳](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/backtracking/210208_1987_%EC%95%8C%ED%8C%8C%EB%B2%B3_g4.py)
-* [9663. N Queen](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/backtracking/210125_9663_NQueen_g5.py)
-* [16197. 두 동전](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/backtracking/210123_16197_%EB%91%90%EB%8F%99%EC%A0%84_BT_g4.py) *
 
 ### Binary Search
 * [1072. 게임](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/binary-search/210126_1072_%EA%B2%8C%EC%9E%84_s3.java)
@@ -252,12 +255,6 @@
 * [2805. 나무 자르기](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/binary-search/210126_2805_%EB%82%98%EB%AC%B4%EC%9E%90%EB%A5%B4%EA%B8%B0_s3.java)
 * [8983. 사냥꾼](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/binary-search/210123_8983_%EC%82%AC%EB%83%A5%EA%BE%BC_BS_g4.py) *
 * [14003. 가장 긴 증가하는 부분 수열](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/binary-search/210203_14003_%EA%B0%80%EC%9E%A5%EA%B8%B4%EC%A6%9D%EA%B0%80%ED%95%98%EB%8A%94%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B45_g1.java) ***
-
-### Combinatorics
-* [11050. 이항계수1](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/combinatorics/210129_11050_%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%981_b1.py)
-* [11051. 이항계수2](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/combinatorics/210129_11051_%EC%9D%B4%ED%95%AD%EA%B3%84%EC%88%982_s1.java)
-* [15663. N과 M(9)](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/combinatorics/210129_15663_N%EA%B3%BCM(9)_s2.java)
-* [15664. N과 M(10)](https://github.com/HYEEWON/practice_for_coding_test/blob/master/baekjoon/combinatorics/210129_15664_N%EA%B3%BCM(10)_s2.java)
 
 ### Dynamic Programming
 * [1010. 다리 놓기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/baekjoon/dynamic-programming/210915_1010_%EB%8B%A4%EB%A6%AC%EB%86%93%EA%B8%B0_s5.py)
