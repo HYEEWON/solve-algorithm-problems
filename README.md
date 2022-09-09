@@ -90,22 +90,31 @@
 * [전화번호 목록](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210105_%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D_%ED%95%B4%EC%8B%9C_L2.py)
 * [위장](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210105_%EC%9C%84%EC%9E%A5_%ED%95%B4%EC%8B%9C_L2.py)
 * [베스트 앨범](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210228_%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94_%ED%95%B4%EC%8B%9C_L3.py)
+
 #### 스택/큐
-* [다리를 지나는 트럭](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210228_%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD_%EC%8A%A4%ED%83%9D%ED%81%90_L2.py)
-* [주식 가격(python)](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210105_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9_%EC%8A%A4%ED%83%9D%ED%81%90_L2.py)
-* [주식 가격(c++)](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210104_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9_%EC%8A%A4%ED%83%9D%ED%81%90_L2.cpp)
-* [기능 개발(python)](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210228_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C_%EC%8A%A4%ED%83%9D%ED%81%90_L2.py)
-* [기능 개발(c++)](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210104_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C_%EC%8A%A4%ED%83%9D%ED%81%90_L2.cpp)
-* [프린터](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210228_%ED%94%84%EB%A6%B0%ED%84%B0_%EC%8A%A4%ED%83%9D%ED%81%90_L2.py)
+* [같은 숫자는 싫어](./programmers/coding_test_kit/220908_%EA%B0%99%EC%9D%80%EC%88%AB%EC%9E%90%EB%8A%94%EC%8B%AB%EC%96%B4_%EC%8A%A4%ED%83%9D%ED%81%90_L1.py)
+* [올바른 괄호](./programmers/coding_test_kit/220908_%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8_%EC%8A%A4%ED%83%9D%ED%81%90_L2.py)
+* [기능 개발(c++)](./programmers/coding_test_kit/210104_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C_%EC%8A%A4%ED%83%9D%ED%81%90_L2.cpp)
+* [기능 개발](./programmers/coding_test_kit/210104_%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C_%EC%8A%A4%ED%83%9D%ED%81%90_L2.cpp)
+* [프린터](./programmers/coding_test_kit/210228_%ED%94%84%EB%A6%B0%ED%84%B0_%EC%8A%A4%ED%83%9D%ED%81%90_L2.py)
+* [다리를 지나는 트럭](./programmers/coding_test_kit/210228_%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD_%EC%8A%A4%ED%83%9D%ED%81%90_L2.py)
+* [주식 가격(c++)](./programmers/coding_test_kit/210104_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9_%EC%8A%A4%ED%83%9D%ED%81%90_L2.cpp)
+* [주식 가격](./programmers/coding_test_kit/210105_%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9_%EC%8A%A4%ED%83%9D%ED%81%90_L2.py)
+
 #### 힙(Heap)
 * [더 맵게(python)](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210106_%EB%8D%94%EB%A7%B5%EA%B2%8C_%ED%9E%99_L2.py)
 * [더 맵게(java)](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210106_%ED%9E%99_%EB%8D%94%EB%A7%B5%EA%B2%8C_L2.java)
 * [디스크 컨트롤러](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210106_%EB%94%94%EC%8A%A4%ED%81%AC%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC_%ED%9E%99_L3.py) *
 * [이중우선순위큐](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210122_%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90_%ED%9E%99_L3.py) *
+
 #### 정렬
 * [가장 큰 수](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210311_%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98_%EC%A0%95%EB%A0%AC_L2.py) *
 * [H-Index](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210312_H-Index_%EC%A0%95%EB%A0%AC_L2.py)
+
 #### 완전탐색
+* [모의고사](./programmers/coding_test_kit/220908_%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_L2.py)
+* [카펫](./programmers/coding_test_kit/220908_%EC%B9%B4%ED%8E%AB_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_L2.py)
+
 #### 탐욕법(Greedy)
 * [체육복](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210111_%EC%B2%B4%EC%9C%A1%EB%B3%B5_%ED%83%90%EC%9A%95%EB%B2%95_L1.py)
 * [조이스틱](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210111_%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1_%ED%83%90%EC%9A%95%EB%B2%95_L2.py) *
@@ -113,16 +122,20 @@
 * [구명보트](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210305_%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8_%ED%83%90%EC%9A%95%EB%B2%95_L2.py) *
 * [섬 연결하기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210308_%EC%84%AC%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0_%ED%83%90%EC%9A%95%EB%B2%95_L3.py) *
 * [단속카메라](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210309_%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC_%ED%83%90%EC%9A%95%EB%B2%95_L3.py)
+
 #### 동적계획법(Dynamic Programming)
 * [N으로 표현](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210116_N%EC%9C%BC%EB%A1%9C%ED%91%9C%ED%98%84_DP_L3.py) *
 * [정수 삼각형](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210118_%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95_DP_L3.py)
 * [등굣길](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210116_%EB%93%B1%EA%B5%A3%EA%B8%B8_DP_L3.py)
 * [도둑질](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210118_%EB%8F%84%EB%91%91%EC%A7%88_DP_L4.py)
+
 #### 깊이/너비 우선 탐색(DFS/BFS)
-* [타겟 넘버](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210309_%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84_DFSBFS_L2.py)
+* [타겟 넘버](./programmers/coding_test_kit/210309_%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84_DFSBFS_L2.py)
+* [게임 맵 최단거리](./programmers/coding_test_kit/220908_%EA%B2%8C%EC%9E%84%EB%A7%B5%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC_DFSBFS_L2.py)
 * [네트워크](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/201008_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC_DFSBFS_L3.py)
 * [단어 변환](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210121_%EB%8B%A8%EC%96%B4%EB%B3%80%ED%99%98_DFSBFS_L3.py)
 * [여행경로](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/201011_%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C_DFSBFS_L3.py)
+
 #### 이분탐색
 * [입국심사](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210307_%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89_L3.py)
 * [징검다리](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/coding_test_kit/210308_%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC_%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89_L4.py) *
@@ -136,25 +149,26 @@
 * [k진수에서 소수 개수 구하기](./programmers/2022_kakao/220530_k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%EC%86%8C%EC%88%98%EA%B0%9C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0_L2.py)
 * [주차요금계산](./programmers/2022_kakao/220521_%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88%EA%B3%84%EC%82%B0_L3.py)
 * [양궁대회](./programmers/2022_kakao/220512_%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C_L2.py) *
-* [양궁대회 (RE)](./programmers/2022_kakao/220817_%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C_L2.py)
+* [양궁대회 (re)](./programmers/2022_kakao/220817_%EC%96%91%EA%B6%81%EB%8C%80%ED%9A%8C_L2.py)
 * [양과 늑대](./programmers/2022_kakao/220513_%EC%96%91%EA%B3%BC%EB%8A%91%EB%8C%80_L3.py) *
-* [양과 늑대 (RE)](./programmers/2022_kakao/220819_%EC%96%91%EA%B3%BC%EB%8A%91%EB%8C%80_L3.py) *
+* [양과 늑대 (re)](./programmers/2022_kakao/220819_%EC%96%91%EA%B3%BC%EB%8A%91%EB%8C%80_L3.py) *
 * [파괴되지않은건물](./programmers/2022_kakao/220520_%ED%8C%8C%EA%B4%B4%EB%90%98%EC%A7%80%EC%95%8A%EC%9D%80%EA%B1%B4%EB%AC%BC_L3.py) * 
 
 
 ### 2021 Kakao Recruitment
 * [신규 아이디 추천](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2021_kakao/210821_%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C_L2.py)
 * [메뉴 리뉴얼](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2021_kakao/210822_%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC_L2.py)
-* [순위 검색](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2021_kakao/210823_%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89_L2.py) *
+* [순위 검색](./programmers/2021_kakao/210823_%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89_L2.py) *
+* [순위 검색 (re)](./programmers/2021_kakao/220907_%EC%88%9C%EC%9C%84%EA%B2%80%EC%83%89_L2.py) *
 * [합승 택시 요금](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2021_kakao/210824_%ED%95%A9%EC%8A%B9%ED%83%9D%EC%8B%9C%EC%9A%94%EA%B8%88_L3.py)
 * [광고 삽입](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2021_kakao/210822_%EA%B4%91%EA%B3%A0%EC%82%BD%EC%9E%85_L3.py) *
 * [카드 짝 맞추기](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2021_kakao/210831_%EC%B9%B4%EB%93%9C%EC%A7%9D%EB%A7%9E%EC%B6%94%EA%B8%B0_L3.py) *
 
-
 ### 2021 Kakao Internship
-* [거리두기 확인하기](https://github.com/HYEEWON/practice_for_coding_test/blob/main/programmers_2021_kakao_internship/210729_%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0_L2.py)
-* [숫자 문자열과 영단어](https://github.com/HYEEWON/algorithm-study/blob/main/programmers_2021_kakao_internship/210818_%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4_L2.py)
-* [표 편집](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers_2021_kakao_internship/210819_%ED%91%9C%ED%8E%B8%EC%A7%91_L3.py) *
+* [거리두기 확인하기](./programmers/2021_kakao_internship/210729_%EA%B1%B0%EB%A6%AC%EB%91%90%EA%B8%B0%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0_L2.py)
+* [숫자 문자열과 영단어](./programmers/2021_kakao_internship/210818_%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4_L2.py)
+* [표 편집](./programmers/2021_kakao_internship/210819_%ED%91%9C%ED%8E%B8%EC%A7%91_L3.py) *
+* [표 편집 (re)](./programmers/2021_kakao_internship/220908_%ED%91%9C%ED%8E%B8%EC%A7%91_L3.py) *
 
 ### 2021 Dev Matching: Backend (Spring)
 * [로또의 최고 순위와 최저 순위](./programmers/2021_dev_backend/220614_%EB%A1%9C%EB%98%90%EC%9D%98%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84_L1.py)
@@ -176,14 +190,14 @@
 
 
 ### 2019 Kakao Recruitment
-* [오픈 채팅방(python)](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao/210106_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9_L2.py)
+* [오픈 채팅방](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao/210106_%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9_L2.py)
 * [오픈 채팅방(java)](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9_L2_210106.java)
-* [실패율(python)](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao/210118_%EC%8B%A4%ED%8C%A8%EC%9C%A8_L2.py)
+* [실패율](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao/210118_%EC%8B%A4%ED%8C%A8%EC%9C%A8_L2.py)
 * [실패율(java)](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao/%EC%8B%A4%ED%8C%A8%EC%9C%A8_L2_210119.java)
 * [후보키](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao/210107_%ED%9B%84%EB%B3%B4%ED%82%A4_L2.py)
 * [무지의 먹방 라이브](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao/210119_%EB%AC%B4%EC%A7%80%EC%9D%98%EB%A8%B9%EB%B0%A9%EB%9D%BC%EC%9D%B4%EB%B8%8C_L4.py)
 * [길 찾기 게임](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao/210108_%EA%B8%B8%EC%B0%BE%EA%B8%B0%EA%B2%8C%EC%9E%84_L3.py) *
-* [매칭점수(python)](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao/210113_%EB%A7%A4%EC%B9%AD%EC%A0%90%EC%88%98_L3.py) *
+* [매칭점수](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao/210113_%EB%A7%A4%EC%B9%AD%EC%A0%90%EC%88%98_L3.py) *
 * [매칭점수(java)](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao/%EB%A7%A4%EC%B9%AD%EC%A0%90%EC%88%98_L3_210113.java)
 * [블록게임](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2019_kakao/210120_%EB%B8%94%EB%A1%9D%EA%B2%8C%EC%9E%84_L4.py) *
 
