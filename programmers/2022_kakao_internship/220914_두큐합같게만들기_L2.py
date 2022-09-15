@@ -28,6 +28,33 @@ def solution(queue1, queue2):
     return -1
   
  
-# 참고한 풀이
+# 참고 풀이
 # https://school.programmers.co.kr/learn/courses/30/lessons/118667/solution_groups?language=python3
 
+# 투 포인터
+# 두개의 큐를 이용하는 것이 아니라 1개 큐로 계산
+# 큐는 순서가 유지되기 때문에 가능
+def solution(queue1, queue2):
+    q = queue1 + queue2
+    total_sum = sum(q)
+    if total_sum % 2 != 0:
+        return -1
+        
+    target_sum = total_sum // 2
+    half_sum = sum(queue1)
+    start, end, answer = 0, len(queue1)-1, 0
+    
+    while end < len(q):
+        if half_sum > target_sum:
+            half_sum -= q[start]
+            start += 1
+            answer += 1
+        elif half_sum < target_sum:
+            end += 1
+            if end == len(q):
+                return -1
+            half_sum += q[end]
+            answer += 1
+        else:
+            return answer
+    return -1
