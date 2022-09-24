@@ -154,6 +154,10 @@
 * [양과 늑대 (re)](./programmers/2022_kakao/220819_%EC%96%91%EA%B3%BC%EB%8A%91%EB%8C%80_L3.py) *
 * [파괴되지않은건물](./programmers/2022_kakao/220520_%ED%8C%8C%EA%B4%B4%EB%90%98%EC%A7%80%EC%95%8A%EC%9D%80%EA%B1%B4%EB%AC%BC_L3.py) * 
 
+### 2022 Kakao Internship
+* [두 큐 합 같게 만들기](./programmers/2022_kakao_internship/220914_%EB%91%90%ED%81%90%ED%95%A9%EA%B0%99%EA%B2%8C%EB%A7%8C%EB%93%A4%EA%B8%B0_L2.py)
+* [성격 유형 검사하기](./programmers/2022_kakao_internship/220922_%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0_L1.py)
+* [등산코스 정하기](./programmers/2022_kakao_internship/220916_%EB%93%B1%EC%82%B0%EC%BD%94%EC%8A%A4%EC%A0%95%ED%95%98%EA%B8%B0_L3.py) *
 
 ### 2021 Kakao Recruitment
 * [신규 아이디 추천](https://github.com/HYEEWON/practice-for-coding-test/blob/main/programmers/2021_kakao/210821_%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C_L2.py)
@@ -246,6 +250,7 @@
 ## 🌈 Baekjoon
 
 ### Total
+* [1644. 소수의 연속합](./baekjoon/4/210925_1644_%EC%86%8C%EC%88%98%EC%9D%98%EC%97%B0%EC%86%8D%ED%95%A9_g3.py)
 * [1759. 암호만들기](./baekjoon/9/210125_1759_%EC%95%94%ED%98%B8%EB%A7%8C%EB%93%A4%EA%B8%B0_g5.py)
 * [1987. 알파벳](./baekjoon/7/210208_1987_%EC%95%8C%ED%8C%8C%EB%B2%B3_g4.py)
 * [9663. N Queen](./baekjoon/3/210125_9663_NQueen_g5.py)
